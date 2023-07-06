@@ -1,0 +1,35 @@
+Prologue Args:
+Job ID: 505299.headnode03.cent.gla.ac.uk
+User ID: 2117832m
+Group ID: bioinf-stud
+MAchine: node071.hpc.gla.ac.uk
+
+0 s1.c2
+1 s10.c2
+2 s11.c2
+3 s12.c2
+4 s2.c2
+5 s3.c2
+6 s4.c2
+7 s5.c2
+8 s6.c2
+9 s7.c2
+10 s8.c2
+11 s9.c2
+Epilogue Args:
+Job ID: 505299.headnode03.cent.gla.ac.uk
+User ID: 2117832m
+Group ID: bioinf-stud
+Job Name: assessment_1
+Session ID: 39604
+Resource List: cput=24:00:00,neednodes=1:ppn=4:centos6,nodes=1:ppn=4:centos6,walltime=48:00:00
+Resources Used: cput=03:01:47,mem=3430896kb,vmem=4208140kb,walltime=01:56:32
+Queue Name: bioinf-stud
+Account String: 
+
+
+No user epilogue file found at /export/home/2117832m/epilogue
+
+
+Process's killed on node071.hpc.gla.ac.uk
+tmp directory removed on node071.hpc.gla.ac.uk
