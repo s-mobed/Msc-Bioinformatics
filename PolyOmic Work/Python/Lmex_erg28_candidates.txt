@@ -1,0 +1,26 @@
+Gene ID	source_id	Genomic Location (Gene)	Product Description	# Transcripts	Protein Length	# TM Domains
+LmxM.36.2960	LmxM.36.2960.1	LmxM.20:1,194,599..1,194,997(-)	hypothetical protein, conserved	1	132	2
+LmxM.27.2090	LmxM.27.2090.1	LmxM.27:872,643..873,089(-)	hypothetical protein, conserved	1	148	2
+LmxM.31.3065	LmxM.31.3065.1	LmxM.31:1,199,025..1,199,378(+)	hypothetical protein, conserved	1	117	3
+LmxM.20.1590	LmxM.20.1590.1	LmxM.20:3,329,252..3,329,617(-)	hypothetical protein, conserved	1	121	2
+LmxM.27.2380	LmxM.27.2380.1	LmxM.27:999,628..999,969(+)	hypothetical protein, unknown function	1	113	4
+LmxM.30.2715	LmxM.30.2715.1	LmxM.30:1,277,152..1,277,592(-)	hypothetical protein, conserved	1	146	2
+LmxM.33.4570	LmxM.33.4570.1	LmxM.33:1,634,513..1,634,872(+)	hypothetical protein, conserved	1	119	3
+LmxM.01.0315	LmxM.01.0315.1	LmxM.01:77,187..77,618(-)	hypothetical protein, conserved	1	143	2
+LmxM.33.2320	LmxM.33.2320.1	LmxM.33:843,955..844,353(-)	hypothetical protein, conserved	1	132	2
+LmxM.29.0205	LmxM.29.0205.1	LmxM.29:58,275..58,634(-)	hypothetical protein, conserved	1	119	2
+LmxM.08.0600	LmxM.08.0600.1	LmxM.08:1,394,643..1,395,074(+)	hypothetical protein, unknown function	1	143	2
+LmxM.33.2130	LmxM.33.2130.1	LmxM.33:760,268..760,738(-)	hypothetical protein, conserved	1	156	4
+LmxM.34.4310	LmxM.34.4310.1	LmxM.34:1,626,166..1,626,591(+)	hypothetical protein, conserved	1	141	2
+LmxM.36.6523	LmxM.36.6523.1	LmxM.20:2,482,599..2,483,009(-)	hypothetical protein, conserved	1	136	3
+LmxM.05.1120	LmxM.05.1120.1	LmxM.05:416,176..416,517(+)	hypothetical protein, unknown function	1	113	2
+LmxM.14.1395	LmxM.14.1395.1	LmxM.14:572,145..572,591(+)	hypothetical protein, conserved	1	148	2
+LmxM.31.3590	LmxM.31.3590.1	LmxM.31:1,408,922..1,409,260(+)	hypothetical protein, conserved	1	112	2
+LmxM.10.1180	LmxM.10.1180.1	LmxM.10:460,639..461,061(-)	hypothetical protein, conserved	1	140	3
+LmxM.34.1840	LmxM.34.1840.1	LmxM.34:669,658..670,110(+)	hypothetical protein, conserved	1	150	2
+LmxM.36.3920	LmxM.36.3920.1	LmxM.20:1,471,424..1,471,825(+)	hypothetical protein, conserved	1	133	3
+LmxM.31.2140	LmxM.31.2140.1	LmxM.31:823,442..823,843(-)	hypothetical protein, conserved	1	133	1
+LmxM.33.2230	LmxM.33.2230.1	LmxM.33:810,952..811,425(-)	hypothetical protein, conserved	1	157	2
+LmxM.06.0995	LmxM.06.0995.1	LmxM.06:397,239..397,706(+)	hypothetical protein, unknown function	1	155	3
+LmxM.29.1622	LmxM.29.1622.1	LmxM.29:557,971..558,357(+)	hypothetical protein, conserved	1	128	2
+LmxM.33.2473	LmxM.33.2473.1	LmxM.33:906,322..906,738(-)	hypothetical protein, conserved	1	138	2

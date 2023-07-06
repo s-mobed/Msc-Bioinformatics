@@ -1,0 +1,46 @@
+source_id | Product Description 
+LmxM.02.0310.1 | paraflagellar rod component, putative 
+LmxM.03.0270.1 | FYVE zinc finger/Apolipoprotein A1/A4/E domain containing protein, putative 
+LmxM.03.0500.1 | phosphate-Repressible Phosphate Permease-like protein 
+LmxM.08.0720.1 | amastin-like protein, putative 
+LmxM.08_29.2020.1 | 5'-AMP-activated protein kinase catalytic subunit alpha, putative 
+LmxM.10.0720.1 | amino acid permease 24, putative 
+LmxM.11.1090.1 | zinc finger domain protein, putative 
+LmxM.11.1100.1 | Lanosterol 14-alpha demethylase 
+LmxM.11.1160.1 | protein transport protein SEC31, putative 
+LmxM.11.1220.1 | ATP-binding cassette protein subfamily A, member 2, putative 
+LmxM.11.1240.1 | ABC1 transporter, putative 
+LmxM.11.1290.1 | ABC transporter, putative 
+LmxM.11.1380.1 | Variant SH3 domain containing protein, putative 
+LmxM.12.0890.1 | surface antigen protein 2, putative 
+LmxM.15.0160.1 | zinc finger (CCCH type) protein, putative 
+LmxM.15.0440.1 | tb-292 membrane associated protein-like protein 
+LmxM.15.0500.1 | serine peptidase, Clan SJ, family S16, putative 
+LmxM.15.0510.1 | ecotin, putative 
+LmxM.15.0540.1 | Distal docking complex protein 1 
+LmxM.16.0480.1 | fucose kinase, putative 
+LmxM.16.0760.1 | transaldolase, putative 
+LmxM.17.0190.1 | receptor-type adenylate cyclase, putative 
+LmxM.17.0200.1 | receptor-type adenylate cyclase a 
+LmxM.17.1440.1 | ion transport protein, putative 
+LmxM.20.1120.1 | phosphatidylinositol 3-kinase, putative 
+LmxM.22.1320.1 | flagellar attachment zone protein, putative (fragment) 
+LmxM.22.1650.1 | CobW/HypB/UreG, nucleotide-binding domain containing protein, putative 
+LmxM.24.0100.1 | Calmodulin-binding, putative 
+LmxM.24.0480.1 | Kelch motif/Galactose oxidase, central domain containing protein, putative 
+LmxM.24.2340.1 | SpoU rRNA Methylase family, putative 
+LmxM.26.0710.1 | Sphingosine kinase 
+LmxM.27.0680.1 | amino acid permease, putative 
+LmxM.28.3030.1 | Nucleoporin NUP149 
+LmxM.29.1240.1 | calcium-binding protein, putative 
+LmxM.30.0010.1 | 5-methyltetrahydropteroyltriglutamate--homocyst ei nemethyltransferase, putative 
+LmxM.30.0030.1 | RING-variant domain containing protein, putative 
+LmxM.30.0280.1 | Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)/Endoplasmic reticulum vesicle transporter, putative 
+LmxM.30.0350.1 | amino acid transporter aATP11, putative 
+LmxM.30.0360.1 | CRAL/TRIO domain containing protein, putative 
+LmxM.30.3060.1 | ferrous iron transport protein 
+LmxM.30.3070.1 | ferrous iron transport protein 
+LmxM.32.3210.1 | beta prime cop protein, putative 
+LmxM.33.4060.1 | ubiquitin hydrolase, putative 
+LmxM.36.2600.1 | cyclin-e binding protein 1-like protein 
+LmxM.36.6510.1 | cop9 signalosome complex subunit, putative 

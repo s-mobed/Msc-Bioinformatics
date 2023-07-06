@@ -1,0 +1,62 @@
+Gene ID	source_id	Organism	Genomic Location (Gene)	Product Description
+LmxM.08_29.0620	LmxM.08_29.0620.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:920,156..925,759(+)	ABC transporter, putative
+LmxM.11.0040	LmxM.11.0040.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:7,240..8,145(+)	ABC transporter, putative
+LmxM.11.1270	LmxM.11.1270.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:508,677..514,031(+)	ABC transporter, putative
+LmxM.11.1290	LmxM.11.1290.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:522,939..528,617(+)	ABC transporter, putative
+LmxM.12.1190	LmxM.12.1190.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.12:437,111..441,928(+)	ABC transporter, putative
+LmxM.15.0890	LmxM.15.0890.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.15:356,611..358,842(-)	ABC transporter, putative
+LmxM.19.0800	LmxM.19.0800.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.19:331,633..333,471(+)	ABC transporter, putative
+LmxM.21.0880	LmxM.21.0880.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.21:345,261..348,125(+)	ABC transporter, putative
+LmxM.23.0250	LmxM.23.0250.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.23:88,131..92,846(+)	ABC-thiol transporter
+LmxM.27.0470	LmxM.27.0470.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.27:131,788..133,854(+)	ABC transporter, putative
+LmxM.27.0970	LmxM.27.0970.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.27:393,341..398,872(-)	ABC transporter, putative
+LmxM.29.1330	LmxM.29.1330.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.29:451,921..453,246(+)	ABC transporter, putative
+LmxM.32.1860	LmxM.32.1860.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:710,717..712,639(+)	ABC transporter, putative
+LmxM.03.0160	LmxM.03.0160.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.03:39,893..42,067(+)	ABC transporter protein, putative
+LmxM.08_29.0930	LmxM.08_29.0930.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:802,675..804,843(-)	ABC transporter-like protein
+LmxM.11.1230	LmxM.11.1230.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:481,184..481,924(+)	ABC transporter-like protein
+LmxM.11.1260	LmxM.11.1260.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:502,243..502,983(+)	ABC transporter-like protein
+LmxM.25.0530	LmxM.25.0530.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.25:179,832..181,802(-)	ABC transporter, mitochondrial, putative
+LmxM.31.2060	LmxM.31.2060.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.31:793,059..795,254(-)	ABC transporter-like protein
+LmxM.33.0670	LmxM.33.0670.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.33:280,350..286,622(+)	ABC transporter-like protein
+LmxM.08_29.1640	LmxM.08_29.1640.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:424,573..425,964(+)	ABC transporter domain protein, putative
+LmxM.32.3040	LmxM.32.3040.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:1,327,473..1,331,495(+)	ABC transporter family-like protein
+LmxM.32.3260	LmxM.32.3260.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:1,400,775..1,403,624(+)	ABC transporter family-like protein
+LmxM.31.3080	LmxM.31.3080.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.31:1,203,879..1,206,557(+)	ABC transporter of the mitochondrion, putative
+LmxM.32.1300	LmxM.32.1300.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:475,653..477,542(+)	ABC1 family protein, putative
+LmxM.15.0760	LmxM.15.0760.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.15:298,641..306,680(-)	ABC1 transporter-like protein
+LmxM.11.1220	LmxM.11.1220.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:474,017..479,076(+)	ATP-binding cassette protein subfamily A, member 2, putative
+LmxM.11.1250	LmxM.11.1250.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:493,829..500,117(+)	ATP-binding cassette protein subfamily A, member 4, putative
+LmxM.11.1240	LmxM.11.1240.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.11:483,808..489,225(+)	ABC1 transporter, putative
+LmxM.27.0980	LmxM.27.0980.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.27:404,202..406,736(-)	ATP-binding cassette protein subfamily A, member 9, putative
+LmxM.36.4530	LmxM.36.4530.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.20:1,723,604..1,725,205(+)	ABC1 protein, putative
+LmxM.26.2670	LmxM.26.2670.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.26:1,008,227..1,012,030(+)	p-glycoprotein-like protein
+LmxM.33.0990	LmxM.33.0990.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.33:420,264..424,289(+)	p-glycoprotein
+LmxM.02.0300	LmxM.02.0300.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.02:110,065..117,423(-)	ABC1 transporter, putative
+LmxM.11.1220a	LmxM.11.1220a.1	Leishmania mexicana MHOM/GT/2001/U1103	1036_mexFOS1_13k16.p1kpIBF_28:828..1,907(-)	hypothetical protein
+LmxM.30.0540	LmxM.30.0540.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.30:205,788..208,241(-)	ATP-binding cassette protein subfamily D, member 2, putative
+LmxM.36.2890	LmxM.36.2890.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.20:1,161,860..1,163,902(-)	ATP-binding cassette protein, putative
+LmxM.23.0210	LmxM.23.0210.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.23:64,645..69,324(+)	ATP-binding cassette protein subfamily C, member 1, putative
+LmxM.23.0220	LmxM.23.0220.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.23:72,700..77,382(+)	p-glycoprotein, putative
+LmxM.30.1270	LmxM.30.1270.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.30:504,115..509,100(-)	p-glycoprotein e
+LmxM.30.1280	LmxM.30.1280.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.30:510,981..515,606(-)	p-glycoprotein e, putative
+LmxM.30.1290	LmxM.30.1290.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.30:517,426..522,087(-)	multidrug resistance protein, copy 1-like protein
+LmxM.30.1430	LmxM.30.1430.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.30:641,861..647,293(-)	p-glycoprotein-like protein
+LmxM.06.0080	LmxM.06.0080.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.06:35,714..37,687(-)	ATP-binding cassette protein subfamily G, member 1, putative
+LmxM.06.0090	LmxM.06.0090.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.06:41,063..43,054(-)	ATP-binding cassette protein subfamily G, member 2
+LmxM.23.0380	LmxM.23.0380.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.23:135,200..138,907(+)	ATP-binding cassette protein subfamily G, member 5
+LmxM.24.1451	LmxM.24.1451.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.24:535,472..545,269(+)	hypothetical protein, conserved
+LmxM.23.0450	LmxM.23.0450.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.23:160,867..164,181(+)	permease-like protein
+LmxM.08.0230	LmxM.08.0230.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:1,243,094..1,244,662(+)	ABC1 family, putative
+LmxM.06.0100	LmxM.06.0100.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.06:44,000..44,746(-)	ATP-binding cassette protein subfamily G, member 3, putative
+LmxM.32.0310	LmxM.32.0310.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:104,565..106,571(-)	ATP-binding cassette sub-family F member 1, putative
+LmxM.21.0710	LmxM.21.0710.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.21:206,047..208,026(-)	ribonuclease L inhibitor, putative
+LmxM.25.1540	LmxM.25.1540.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.25:600,107..602,350(-)	hypothetical protein, conserved
+LmxM.33.2070	LmxM.33.2070.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.33:725,558..728,944(-)	FtsX-like permease family, putative
+LmxM.36.1080	LmxM.36.1080.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.20:410,061..411,797(+)	hypothetical protein, conserved
+LmxM.26.0185	LmxM.26.0185.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.26:44,059..44,544(-)	hypothetical protein, conserved
+LmxM.08_29.1690	LmxM.08_29.1690.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:411,353..412,549(+)	Acyl-coenzyme A thioesterase, putative
+LmxM.32.2360	LmxM.32.2360.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.32:940,725..943,523(+)	ATP synthase regulation protein NCA2, putative
+LmxM.07.0080	LmxM.07.0080.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.07:25,307..27,178(+)	Golgi/lysosome glycoprotein 1, putative
+LmxM.10.0600	LmxM.10.0600.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.10:258,617..260,404(-)	ABC1 family, putative
+LmxM.08.0010	LmxM.08.0010.1	Leishmania mexicana MHOM/GT/2001/U1103	LmxM.08:1,160,058..1,163,654(+)	adaptor complex protein (AP) 3 delta subunit 1, putative

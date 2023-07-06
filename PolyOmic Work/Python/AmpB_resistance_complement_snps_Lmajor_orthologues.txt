@@ -1,0 +1,668 @@
+Gene ID	source_id	Organism	Genomic Location (Gene)	Product Description	Input Ortholog(s)
+LMJFC_020008500	LMJFC_020008500_t1	Leishmania major Friedlin 2021	OU755536:135,462..147,246(-)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_020008700	LMJFC_020008700_t1	Leishmania major Friedlin 2021	OU755536:149,785..152,806(-)	Soluble NSF attachment protein - SNAP - putative	LmxM.02.0310
+LMJFC_020011600	LMJFC_020011600_t1	Leishmania major Friedlin 2021	OU755536:300,329..312,177(+)	hypothetical protein - conserved	LmxM.02.0580
+LMJFC_030006100	LMJFC_030006100_t1	Leishmania major Friedlin 2021	OU755537:26,504..29,913(+)	hypothetical protein - conserved	LmxM.03.0110
+LMJFC_030006200	LMJFC_030006200_t1	Leishmania major Friedlin 2021	OU755537:30,171..33,937(+)	Leucine Rich Repeat - putative	LmxM.03.0120
+LMJFC_030007700	LMJFC_030007700_t1	Leishmania major Friedlin 2021	OU755537:65,411..74,770(+)	Apolipoprotein A1/A4/E domain containing protein - putative	LmxM.03.0270
+LMJFC_030008100	LMJFC_030008100_t1	Leishmania major Friedlin 2021	OU755537:91,181..94,943(+)	hypothetical protein - conserved	LmxM.03.0320
+LMJFC_030008400	LMJFC_030008400_t1	Leishmania major Friedlin 2021	OU755537:100,624..106,241(+)	protein kinase - putative	LmxM.03.0350
+LMJFC_030008500	LMJFC_030008500_t1	Leishmania major Friedlin 2021	OU755537:106,722..117,188(+)	hypothetical protein - conserved	LmxM.03.0360
+LMJFC_030009500	LMJFC_030009500_t1	Leishmania major Friedlin 2021	OU755537:152,683..161,847(+)	hypothetical protein - conserved	LmxM.03.0460
+LMJFC_030009900	LMJFC_030009900_t1	Leishmania major Friedlin 2021	OU755537:173,631..177,728(+)	hypothetical protein - conserved	LmxM.03.0490
+LMJFC_030010000	LMJFC_030010000_t1	Leishmania major Friedlin 2021	OU755537:178,010..181,906(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJFC_030010100	LMJFC_030010100_t1	Leishmania major Friedlin 2021	OU755537:182,311..190,506(+)	hypothetical protein - conserved	LmxM.03.0510
+LMJFC_030010300	LMJFC_030010300_t1	Leishmania major Friedlin 2021	OU755537:194,131..202,378(+)	hypothetical protein - conserved	LmxM.03.0530
+LMJFC_040017900	LMJFC_040017900_t1	Leishmania major Friedlin 2021	OU755538:421,894..426,926(-)	hypothetical protein - conserved	LmxM.04.1090
+LMJFC_040018400	LMJFC_040018400_t1	Leishmania major Friedlin 2021	OU755538:438,525..439,837(-)	hypothetical protein - conserved	LmxM.04.1140
+LMJFC_050014000	LMJFC_050014000_t1	Leishmania major Friedlin 2021	OU755539:290,215..294,849(+)	hypothetical protein - conserved	LmxM.05.0770
+LMJFC_080012300	LMJFC_080012300_t1	Leishmania major Friedlin 2021	OU755542:285,818..289,079(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_080012400	LMJFC_080012400_t1	Leishmania major Friedlin 2021	OU755542:289,292..290,916(+)	hypothetical protein	LmxM.33.1590
+LMJFC_080012500	LMJFC_080012500_t1	Leishmania major Friedlin 2021	OU755542:291,707..294,976(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_080012600	LMJFC_080012600_t1	Leishmania major Friedlin 2021	OU755542:295,189..296,811(+)	hypothetical protein	LmxM.33.1590
+LMJFC_080012700	LMJFC_080012700_t1	Leishmania major Friedlin 2021	OU755542:297,597..300,862(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_080012800	LMJFC_080012800_t1	Leishmania major Friedlin 2021	OU755542:301,075..302,697(+)	hypothetical protein	LmxM.33.1590
+LMJFC_080012900	LMJFC_080012900_t1	Leishmania major Friedlin 2021	OU755542:303,487..306,732(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_080013000	LMJFC_080013000_t1	Leishmania major Friedlin 2021	OU755542:306,945..308,567(+)	hypothetical protein	LmxM.33.1590
+LMJFC_080013100	LMJFC_080013100_t1	Leishmania major Friedlin 2021	OU755542:309,357..312,604(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_090021200	LMJFC_090021200_t1	Leishmania major Friedlin 2021	OU755543:531,551..533,571(-)	Glycosyl hydrolase family 47 -  putative	LmxM.09.1400
+LMJFC_100005300	LMJFC_100005300_t1	Leishmania major Friedlin 2021	OU755544:6,840..10,015(-)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJFC_100014600	LMJFC_100014600_t1	Leishmania major Friedlin 2021	OU755544:338,792..342,645(-)	amino acid permease 24 - putative	LmxM.10.0720
+LMJFC_100014700	LMJFC_100014700_t1	Leishmania major Friedlin 2021	OU755544:342,947..345,971(-)	Neutral amino acid transporter|LiAAP24|AAT20.2	LmxM.10.0720
+LMJFC_100021900	LMJFC_100021900_t1	Leishmania major Friedlin 2021	OU755544:549,446..552,854(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJFC_110017500	LMJFC_110017500_t1	Leishmania major Friedlin 2021	OU755545:417,111..426,162(+)	hypothetical protein - conserved	LmxM.11.1020
+LMJFC_110018200	LMJFC_110018200_t1	Leishmania major Friedlin 2021	OU755545:461,977..465,164(+)	palmitoyl acyltransferase 7 - putative	LmxM.11.1090
+LMJFC_110018300	LMJFC_110018300_t1	Leishmania major Friedlin 2021	OU755545:465,498..470,088(+)	sterol 14-alpha-demethylase - putative	LmxM.11.1100
+LMJFC_110018700	LMJFC_110018700_t1	Leishmania major Friedlin 2021	OU755545:475,676..481,418(+)	protein transport protein SEC31 - putative	LmxM.11.1160
+LMJFC_110019400	LMJFC_110019400_t1	Leishmania major Friedlin 2021	OU755545:499,113..508,511(+)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_110019600	LMJFC_110019600_t1	Leishmania major Friedlin 2021	OU755545:511,061..518,764(+)	ATP-binding cassette subfamily A member|ABCA3	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_110019800	LMJFC_110019800_t1	Leishmania major Friedlin 2021	OU755545:519,975..529,369(+)	ATP-binding cassette protein subfamily A member 4 putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_110020000	LMJFC_110020000_t1	Leishmania major Friedlin 2021	OU755545:532,205..543,399(+)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_110020200	LMJFC_110020200_t1	Leishmania major Friedlin 2021	OU755545:545,850..555,386(+)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_110020800	LMJFC_110020800_t1	Leishmania major Friedlin 2021	OU755545:572,171..573,660(+)	hypothetical protein - conserved	LmxM.11.1350
+LMJFC_110021300	LMJFC_110021300_t1	Leishmania major Friedlin 2021	OU755545:580,557..581,869(+)	SH3 domain/Variant SH3 domain containing protein - putative	LmxM.11.1380
+LMJFC_120014800	LMJFC_120014800_t1	Leishmania major Friedlin 2021	OU755546:384,859..390,529(+)	surface antigen protein 2 - putative	LmxM.12.0890
+LMJFC_120015000	LMJFC_120015000_t1	Leishmania major Friedlin 2021	OU755546:394,455..399,434(+)	surface antigen protein putative	LmxM.12.0890
+LMJFC_120015200	LMJFC_120015200_t1	Leishmania major Friedlin 2021	OU755546:403,245..408,224(+)	surface antigen protein putative	LmxM.12.0890
+LMJFC_120015400	LMJFC_120015400_t1	Leishmania major Friedlin 2021	OU755546:412,207..416,004(+)	surface antigen protein 2 precursor	LmxM.12.0890
+LMJFC_120015600	LMJFC_120015600_t1	Leishmania major Friedlin 2021	OU755546:420,196..423,358(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120015800	LMJFC_120015800_t1	Leishmania major Friedlin 2021	OU755546:427,481..431,989(+)	promastigote surface antigen protein 2 PSA2	LmxM.12.0890
+LMJFC_120016000	LMJFC_120016000_t1	Leishmania major Friedlin 2021	OU755546:436,113..436,815(+)	hypothetical protein	LmxM.12.0890
+LMJFC_120016300	LMJFC_120016300_t1	Leishmania major Friedlin 2021	OU755546:445,014..445,907(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120016350	LMJFC_120016350_t1	Leishmania major Friedlin 2021	OU755546:446,111..446,677(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120016500	LMJFC_120016500_t1	Leishmania major Friedlin 2021	OU755546:453,612..456,689(+)	surface antigen protein 2 - putative	LmxM.12.0890
+LMJFC_120016700	LMJFC_120016700_t1	Leishmania major Friedlin 2021	OU755546:460,670..463,909(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120016900	LMJFC_120016900_t1	Leishmania major Friedlin 2021	OU755546:468,090..471,295(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120017100	LMJFC_120017100_t1	Leishmania major Friedlin 2021	OU755546:475,410..477,877(+)	promastigote surface antigen 38S	LmxM.12.0890
+LMJFC_120017500	LMJFC_120017500_t1	Leishmania major Friedlin 2021	OU755546:488,761..492,254(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_120017700	LMJFC_120017700_t1	Leishmania major Friedlin 2021	OU755546:495,936..500,821(+)	surface antigen protein 2 putative	LmxM.12.0890
+LMJFC_130016400	LMJFC_130016400_t1	Leishmania major Friedlin 2021	OU755547:367,230..375,205(-)	hypothetical protein - conserved	LmxM.13.1080
+LMJFC_150005700	LMJFC_150005700_t1	Leishmania major Friedlin 2021	OU755549:21,528..24,178(-)	hypothetical protein - conserved	LmxM.15.0070
+LMJFC_150006900	LMJFC_150006900_t1	Leishmania major Friedlin 2021	OU755549:56,826..61,383(-)	zinc finger (CCCH type) protein - putative	LmxM.15.0160
+LMJFC_150009100	LMJFC_150009100_t1	Leishmania major Friedlin 2021	OU755549:112,747..116,080(+)	hypothetical protein - conserved	LmxM.15.0290
+LMJFC_150009300	LMJFC_150009300_t1	Leishmania major Friedlin 2021	OU755549:118,458..122,005(+)	hypothetical protein - conserved	LmxM.15.0310
+LMJFC_150010800	LMJFC_150010800_t1	Leishmania major Friedlin 2021	OU755549:220,453..223,063(+)	hypothetical protein - conserved	LmxM.15.0490
+LMJFC_150010900	LMJFC_150010900_t1	Leishmania major Friedlin 2021	OU755549:223,361..227,101(+)	katanin-like|serine peptidase Clan SJ family S16 putative	LmxM.15.0500
+LMJFC_150011200	LMJFC_150011200_t1	Leishmania major Friedlin 2021	OU755549:232,663..239,959(+)	hypothetical protein - conserved	LmxM.15.0530
+LMJFC_150011300	LMJFC_150011300_t1	Leishmania major Friedlin 2021	OU755549:240,298..243,617(+)	hypothetical protein - conserved	LmxM.15.0540
+LMJFC_150012500	LMJFC_150012500_t1	Leishmania major Friedlin 2021	OU755549:278,134..284,981(+)	hypothetical protein - conserved	LmxM.15.0630
+LMJFC_150014400	LMJFC_150014400_t1	Leishmania major Friedlin 2021	OU755549:352,487..361,363(-)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_160010100	LMJFC_160010100_t2	Leishmania major Friedlin 2021	OU755550:151,416..156,362(-)	fucose kinase - putative	LmxM.16.0480
+LMJFC_160010800	LMJFC_160010800_t2	Leishmania major Friedlin 2021	OU755550:167,232..171,691(-)	fucose kinase - putative	LmxM.16.0480
+LMJFC_160014200	LMJFC_160014200_t2	Leishmania major Friedlin 2021	OU755550:267,690..270,530(-)	transaldolase - putative	LmxM.16.0760
+LMJFC_170007600	LMJFC_170007600_t1	Leishmania major Friedlin 2021	OU755551:54,671..62,614(-)	receptor-type adenylate cyclase - putative	LmxM.17.0190,LmxM.17.0200
+LMJFC_170007800	LMJFC_170007800_t1	Leishmania major Friedlin 2021	OU755551:67,162..75,897(-)	receptor-type adenylate cyclase - putative	LmxM.17.0190,LmxM.17.0200
+LMJFC_170007900	LMJFC_170007900_t1	Leishmania major Friedlin 2021	OU755551:76,565..83,325(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJFC_170008000	LMJFC_170008000_t1	Leishmania major Friedlin 2021	OU755551:83,464..89,054(-)	receptor-type adenylate cyclase - putative	LmxM.17.0190,LmxM.17.0200
+LMJFC_170008100	LMJFC_170008100_t1	Leishmania major Friedlin 2021	OU755551:89,585..94,783(-)	receptor-type adenylate cyclase - putative	LmxM.17.0190,LmxM.17.0200
+LMJFC_170008200	LMJFC_170008200_t1	Leishmania major Friedlin 2021	OU755551:95,114..100,512(-)	receptor-type adenylate cyclase - putative	LmxM.17.0190,LmxM.17.0200
+LMJFC_170012800	LMJFC_170012800_t1	Leishmania major Friedlin 2021	OU755551:281,004..285,529(-)	hypothetical protein - conserved	LmxM.17.0530
+LMJFC_170023900	LMJFC_170023900_t1	Leishmania major Friedlin 2021	OU755551:678,488..683,503(+)	Ion transport protein - putative	LmxM.17.1440
+LMJFC_200018200	LMJFC_200018200_t1	Leishmania major Friedlin 2021	OU755554:493,571..505,705(+)	phosphatidylinositol 3-kinase - putative	LmxM.20.1120
+LMJFC_200022700	LMJFC_200022700_t1	Leishmania major Friedlin 2021	OU755554:666,576..669,784(-)	hypothetical protein - conserved	LmxM.20.1500
+LMJFC_210010600	LMJFC_210010600_t1	Leishmania major Friedlin 2021	OU755555:137,839..139,691(+)	hypothetical protein - conserved	LmxM.21.0430
+LMJFC_220020600	LMJFC_220020600_t1	Leishmania major Friedlin 2021	OU755556:558,701..569,016(-)	hypothetical protein - conserved	LmxM.22.1330
+LMJFC_220020800	LMJFC_220020800_t1	Leishmania major Friedlin 2021	OU755556:573,147..575,076(-)	palmitoyl acyltransferase 11 - putative	LmxM.11.1090
+LMJFC_220024600	LMJFC_220024600_t1	Leishmania major Friedlin 2021	OU755556:683,010..684,520(+)	CobW/HypB/UreG - nucleotide-binding domain containing protein - putative	LmxM.22.1650
+LMJFC_230015400	LMJFC_230015400_t1	Leishmania major Friedlin 2021	OU755557:306,823..311,682(-)	hypothetical protein - conserved	LmxM.23.0640
+LMJFC_230028300	LMJFC_230028300_t1	Leishmania major Friedlin 2021	OU755557:746,925..750,677(+)	hypothetical protein - conserved	LmxM.23.1540
+LMJFC_230028400	LMJFC_230028400_t1	Leishmania major Friedlin 2021	OU755557:751,117..755,000(+)	hypothetical protein - conserved	LmxM.23.1550
+LMJFC_240006100	LMJFC_240006100_t1	Leishmania major Friedlin 2021	OU755558:19,165..20,546(+)	Calmodulin-binding - putative	LmxM.24.0100
+LMJFC_240010500	LMJFC_240010500_t1	Leishmania major Friedlin 2021	OU755558:161,105..162,905(+)	hypothetical protein - conserved	LmxM.24.0470
+LMJFC_240010700	LMJFC_240010700_t1	Leishmania major Friedlin 2021	OU755558:166,098..170,208(+)	Kelch motif/Galactose oxidase - central domain containing protein - putative	LmxM.24.0480
+LMJFC_240013000	LMJFC_240013000_t1	Leishmania major Friedlin 2021	OU755558:244,341..245,422(+)	hypothetical protein - conserved	LmxM.24.0690
+LMJFC_240033300	LMJFC_240033300_t1	Leishmania major Friedlin 2021	OU755558:839,504..841,107(+)	SpoU rRNA Methylase family - putative	LmxM.24.2340
+LMJFC_260012800	LMJFC_260012800_t1	Leishmania major Friedlin 2021	OU755560:193,302..198,708(-)	sphingosine kinase A - B - putative	LmxM.26.0710
+LMJFC_260030100	LMJFC_260030100_t1	Leishmania major Friedlin 2021	OU755560:828,915..841,886(+)	hypothetical protein - conserved	LmxM.26.2120
+LMJFC_270010400	LMJFC_270010400_t1	Leishmania major Friedlin 2021	OU755561:140,144..162,873(+)	calpain-like cysteine peptidase - putative	LmxM.15.0440
+LMJFC_270010500	LMJFC_270010500_t1	Leishmania major Friedlin 2021	OU755561:163,431..191,448(+)	calpain-like cysteine peptidase	LmxM.15.0440
+LMJFC_270010700	LMJFC_270010700_t1	Leishmania major Friedlin 2021	OU755561:193,166..216,013(+)	calpain-like cysteine peptidase	LmxM.15.0440
+LMJFC_270012600	LMJFC_270012600_t1	Leishmania major Friedlin 2021	OU755561:263,887..269,695(+)	amino acid transporter aATP11 - putative	LmxM.30.0350
+LMJFC_270012700	LMJFC_270012700_t1	Leishmania major Friedlin 2021	OU755561:270,136..276,035(+)	amino acid transporter - putative	LmxM.27.0680
+LMJFC_270016500	LMJFC_270016500_t1	Leishmania major Friedlin 2021	OU755561:410,577..422,589(-)	ATP-binding cassette protein subfamily A member 8 (ABCA8)	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_270016700	LMJFC_270016700_t1	Leishmania major Friedlin 2021	OU755561:424,218..434,159(-)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_270028300	LMJFC_270028300_t1	Leishmania major Friedlin 2021	OU755561:822,414..826,910(-)	mitoribosomal protein mS49	LmxM.27.1895
+LMJFC_290012100	LMJFC_290012100_t1	Leishmania major Friedlin 2021	OU755563:226,965..239,311(-)	ATP-binding cassette subfamily A - member 1 - putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJFC_290012400	LMJFC_290012400_t1	Leishmania major Friedlin 2021	OU755563:242,735..245,928(-)	phosphate transporter - putative	LmxM.03.0500
+LMJFC_290029700	LMJFC_290029700_t1	Leishmania major Friedlin 2021	OU755563:883,580..888,728(-)	5'-AMP-activated protein kinase catalytic subunit alpha - putative	LmxM.08_29.2020
+LMJFC_300017700	LMJFC_300017700_t1	Leishmania major Friedlin 2021	OU755564:350,444..361,735(+)	IQ calmodulin-binding motif containing protein - putative	LmxM.29.1080
+LMJFC_300019500	LMJFC_300019500_t1	Leishmania major Friedlin 2021	OU755564:422,746..424,658(+)	calcium-binding protein - putative	LmxM.29.1240
+LMJFC_310005200	LMJFC_310005200_t1	Leishmania major Friedlin 2021	OU755565:2,113..5,265(-)	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
+LMJFC_310005400	LMJFC_310005400_t1	Leishmania major Friedlin 2021	OU755565:9,035..12,453(-)	RING-variant domain containing protein - putative	LmxM.30.0030
+LMJFC_310008300	LMJFC_310008300_t1	Leishmania major Friedlin 2021	OU755565:73,545..74,882(-)	Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)/Endoplasmic reticulum vesicle transporter - putative	LmxM.30.0280
+LMJFC_310008700	LMJFC_310008700_t1	Leishmania major Friedlin 2021	OU755565:88,113..91,833(-)	amino acid transporter - putative	LmxM.27.0680
+LMJFC_310008800	LMJFC_310008800_t1	Leishmania major Friedlin 2021	OU755565:92,266..96,570(-)	amino acid transporter|AAT1.1	LmxM.30.0350
+LMJFC_310009000	LMJFC_310009000_t1	Leishmania major Friedlin 2021	OU755565:99,230..104,231(-)	amino acid transporter aATP11 - putative	LmxM.30.0350
+LMJFC_310009100	LMJFC_310009100_t1	Leishmania major Friedlin 2021	OU755565:104,774..109,186(-)	amino acid transporter|AAT1.3	LmxM.30.0350
+LMJFC_310009200	LMJFC_310009200_t1	Leishmania major Friedlin 2021	OU755565:109,668..114,630(-)	CRAL/TRIO domain containing protein - putative	LmxM.30.0360
+LMJFC_310010200	LMJFC_310010200_t1	Leishmania major Friedlin 2021	OU755565:149,364..152,485(-)	Amastin surface glycoprotein - putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_310010400	LMJFC_310010400_t1	Leishmania major Friedlin 2021	OU755565:155,654..158,778(-)	Amastin surface glycoprotein - putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_310015100	LMJFC_310015100_t1	Leishmania major Friedlin 2021	OU755565:294,210..297,694(-)	hypothetical protein - conserved	LmxM.30.0800,LmxM.30.0820
+LMJFC_310015200	LMJFC_310015200_t1	Leishmania major Friedlin 2021	OU755565:298,028..300,917(-)	hypothetical protein - conserved	LmxM.30.0800,LmxM.30.0820
+LMJFC_310015300	LMJFC_310015300_t1	Leishmania major Friedlin 2021	OU755565:301,292..305,844(-)	hypothetical protein - conserved	LmxM.30.0800,LmxM.30.0820
+LMJFC_310036600	LMJFC_310036600_t1	Leishmania major Friedlin 2021	OU755565:1,138,518..1,146,125(-)	hypothetical protein - conserved	LmxM.30.2220
+LMJFC_310047200	LMJFC_310047200_t1	Leishmania major Friedlin 2021	OU755565:1,466,424..1,469,185(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LMJFC_310047400	LMJFC_310047400_t1	Leishmania major Friedlin 2021	OU755565:1,470,211..1,473,410(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LMJFC_320028100	LMJFC_320028100_t1	Leishmania major Friedlin 2021	OU755566:745,124..747,812(-)	hypothetical protein - conserved	LmxM.31.1910
+LMJFC_330021300	LMJFC_330021300_t1	Leishmania major Friedlin 2021	OU755567:505,264..507,667(+)	Succinate dehydrogenase subunit 4|SDH4	LmxM.32.1160
+LMJFC_330022000	LMJFC_330022000_t1	Leishmania major Friedlin 2021	OU755567:527,886..530,443(+)	Transition zone protein 50|TZP50	LmxM.32.1240
+LMJFC_330022100	LMJFC_330022100_t1	Leishmania major Friedlin 2021	OU755567:530,807..534,000(+)	WD domain - G-beta repeat - putative	LmxM.32.1240
+LMJFC_330025900	LMJFC_330025900_t1	Leishmania major Friedlin 2021	OU755567:678,606..692,822(+)	hypothetical protein - conserved	LmxM.32.1490
+LMJFC_330046900	LMJFC_330046900_t1	Leishmania major Friedlin 2021	OU755567:1,460,700..1,472,315(+)	hypothetical protein - conserved	LmxM.32.3070partial
+LMJFC_330046950	LMJFC_330046950_t1	Leishmania major Friedlin 2021	OU755567:1,472,410..1,486,710(+)	hypothetical protein - conserved	LmxM.32.3070partial
+LMJFC_330048200	LMJFC_330048200_t1	Leishmania major Friedlin 2021	OU755567:1,530,112..1,533,510(+)	beta prime cop protein - putative	LmxM.32.3210
+LMJFC_330048500	LMJFC_330048500_t1	Leishmania major Friedlin 2021	OU755567:1,536,553..1,538,491(+)	hypothetical protein - conserved	LmxM.32.3220
+LMJFC_340025300	LMJFC_340025300_t1	Leishmania major Friedlin 2021	OU755568:715,584..718,722(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340025400	LMJFC_340025400_t1	Leishmania major Friedlin 2021	OU755568:718,723..722,529(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340025500	LMJFC_340025500_t1	Leishmania major Friedlin 2021	OU755568:722,853..725,985(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340025600	LMJFC_340025600_t1	Leishmania major Friedlin 2021	OU755568:726,641..729,792(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340025700	LMJFC_340025700_t1	Leishmania major Friedlin 2021	OU755568:730,116..733,250(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340025800	LMJFC_340025800_t1	Leishmania major Friedlin 2021	OU755568:733,937..737,057(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340025900	LMJFC_340025900_t1	Leishmania major Friedlin 2021	OU755568:737,381..740,519(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340026000	LMJFC_340026000_t1	Leishmania major Friedlin 2021	OU755568:740,959..744,326(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340026100	LMJFC_340026100_t1	Leishmania major Friedlin 2021	OU755568:744,643..747,786(-)	amastin-like surface protein - putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340026200	LMJFC_340026200_t1	Leishmania major Friedlin 2021	OU755568:748,226..751,863(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340026300	LMJFC_340026300_t1	Leishmania major Friedlin 2021	OU755568:752,180..755,337(-)	amastin-like surface protein - putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340026400	LMJFC_340026400_t1	Leishmania major Friedlin 2021	OU755568:756,031..759,412(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340026500	LMJFC_340026500_t1	Leishmania major Friedlin 2021	OU755568:759,736..762,892(-)	amastin-like surface protein - putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340026600	LMJFC_340026600_t1	Leishmania major Friedlin 2021	OU755568:763,586..766,958(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340026700	LMJFC_340026700_t1	Leishmania major Friedlin 2021	OU755568:767,282..770,419(-)	amastin surface glycoprotein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340026800	LMJFC_340026800_t1	Leishmania major Friedlin 2021	OU755568:771,075..774,494(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340026900	LMJFC_340026900_t1	Leishmania major Friedlin 2021	OU755568:774,818..777,955(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340027000	LMJFC_340027000_t1	Leishmania major Friedlin 2021	OU755568:778,395..782,029(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340027100	LMJFC_340027100_t1	Leishmania major Friedlin 2021	OU755568:782,353..785,483(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340027200	LMJFC_340027200_t1	Leishmania major Friedlin 2021	OU755568:785,908..789,561(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340027300	LMJFC_340027300_t1	Leishmania major Friedlin 2021	OU755568:789,885..793,024(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340027400	LMJFC_340027400_t1	Leishmania major Friedlin 2021	OU755568:793,718..797,100(-)	tuzin-like protein	LmxM.33.1590
+LMJFC_340027500	LMJFC_340027500_t1	Leishmania major Friedlin 2021	OU755568:797,424..800,569(-)	amastin-like surface protein putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_340040700	LMJFC_340040700_t1	Leishmania major Friedlin 2021	OU755568:1,302,544..1,308,149(+)	hypothetical protein - conserved	LmxM.30.0800,LmxM.30.0820
+LMJFC_340052000	LMJFC_340052000_t1	Leishmania major Friedlin 2021	OU755568:1,660,149..1,664,588(+)	ubiquitin hydrolase - putative	LmxM.33.4060
+LMJFC_350057100	LMJFC_350057100_t1	Leishmania major Friedlin 2021	OU755569:1,704,625..1,707,379(+)	hypothetical protein - conserved	LmxM.34.4380
+LMJFC_360020100	LMJFC_360020100_t1	Leishmania major Friedlin 2021	OU755570:481,376..486,999(+)	amastin-like surface protein-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJFC_360020200	LMJFC_360020200_t1	Leishmania major Friedlin 2021	OU755570:487,320..491,070(+)	tuzin-like protein	LmxM.33.1590
+LMJFC_360038000	LMJFC_360038000_t1	Leishmania major Friedlin 2021	OU755570:1,085,912..1,088,631(-)	cyclin-e binding protein 1-like protein	LmxM.36.2600
+LMJFC_360067000	LMJFC_360067000_t1	Leishmania major Friedlin 2021	OU755570:2,001,211..2,004,445(-)	hypothetical protein - conserved	LmxM.03.0320
+LMJFC_360085200	LMJFC_360085200_t1	Leishmania major Friedlin 2021	OU755570:2,587,806..2,589,301(-)	cop9 signalosome complex subunit - putative	LmxM.36.6510
+LMJLV39_000006000	LMJLV39_000006000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000237:1..403(-)	hypothetical protein	LmxM.32.3070partial
+LMJLV39_000006900	LMJLV39_000006900.1	Leishmania major strain LV39c5	LMJLV39_SCAF000313:550..1,743(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000007100	LMJLV39_000007100.1	Leishmania major strain LV39c5	LMJLV39_SCAF000321:538..4,101(+)	fucose kinase, putative	LmxM.16.0480
+LMJLV39_000007500	LMJLV39_000007500.1	Leishmania major strain LV39c5	LMJLV39_SCAF000348:6..604(+)	tb-292 membrane associated protein-like protein	LmxM.15.0440
+LMJLV39_000008900	LMJLV39_000008900.1	Leishmania major strain LV39c5	LMJLV39_SCAF000398:167..700(-)	Mucin-like glycoprotein, putative	LmxM.12.0890
+LMJLV39_000009000	LMJLV39_000009000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000399:1..528(-)	hypothetical protein	LmxM.12.0890
+LMJLV39_000009100	LMJLV39_000009100.1	Leishmania major strain LV39c5	LMJLV39_SCAF000403:1..528(-)	hypothetical protein	LmxM.12.0890
+LMJLV39_000009200	LMJLV39_000009200.1	Leishmania major strain LV39c5	LMJLV39_SCAF000406:1..546(-)	hypothetical protein	LmxM.12.0890
+LMJLV39_000010000	LMJLV39_000010000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000427:89..871(-)	hypothetical protein	LmxM.12.0890
+LMJLV39_000010100	LMJLV39_000010100.1	Leishmania major strain LV39c5	LMJLV39_SCAF000442:504..944(-)	hypothetical protein	LmxM.17.0190,LmxM.17.0200
+LMJLV39_000010400	LMJLV39_000010400.1	Leishmania major strain LV39c5	LMJLV39_SCAF000458:1..511(-)	hypothetical protein	LmxM.12.0890
+LMJLV39_000011100	LMJLV39_000011100.1	Leishmania major strain LV39c5	LMJLV39_SCAF000479:258..1,097(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000011700	LMJLV39_000011700.1	Leishmania major strain LV39c5	LMJLV39_SCAF000497:9..1,082(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000011900	LMJLV39_000011900.1	Leishmania major strain LV39c5	LMJLV39_SCAF000503:4..927(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000013400	LMJLV39_000013400.1	Leishmania major strain LV39c5	LMJLV39_SCAF000550:283..1,380(+)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000013700	LMJLV39_000013700.1	Leishmania major strain LV39c5	LMJLV39_SCAF000553:1..1,272(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000016300	LMJLV39_000016300.1	Leishmania major strain LV39c5	LMJLV39_SCAF000593:258..1,690(+)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000016600	LMJLV39_000016600.1	Leishmania major strain LV39c5	LMJLV39_SCAF000600:1..1,549(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000016800	LMJLV39_000016800.1	Leishmania major strain LV39c5	LMJLV39_SCAF000603:265..1,761(+)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000017000	LMJLV39_000017000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000605:144..1,559(+)	hypothetical protein	LmxM.12.0890
+LMJLV39_000017300	LMJLV39_000017300.1	Leishmania major strain LV39c5	LMJLV39_SCAF000610:99..1,652(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000017400	LMJLV39_000017400.1	Leishmania major strain LV39c5	LMJLV39_SCAF000611:144..1,622(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000017700	LMJLV39_000017700.1	Leishmania major strain LV39c5	LMJLV39_SCAF000617:102..1,700(-)	surface antigen protein 2, putative	LmxM.12.0890
+LMJLV39_000018600	LMJLV39_000018600.1	Leishmania major strain LV39c5	LMJLV39_SCAF000635:403..2,085(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000018900	LMJLV39_000018900.1	Leishmania major strain LV39c5	LMJLV39_SCAF000638:638..2,167(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000019000	LMJLV39_000019000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000639:124..2,142(-)	surface antigen protein, putative	LmxM.12.0890
+LMJLV39_000020600	LMJLV39_000020600.1	Leishmania major strain LV39c5	LMJLV39_SCAF000758:414..992(+)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_000020700	LMJLV39_000020700.1	Leishmania major strain LV39c5	LMJLV39_SCAF000759:420..998(+)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_000020800	LMJLV39_000020800.1	Leishmania major strain LV39c5	LMJLV39_SCAF000761:422..1,024(+)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_000020900	LMJLV39_000020900.1	Leishmania major strain LV39c5	LMJLV39_SCAF000764:438..1,013(+)	Amastin surface glycoprotein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_000021000	LMJLV39_000021000.1	Leishmania major strain LV39c5	LMJLV39_SCAF000767:473..1,048(+)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_000021200	LMJLV39_000021200.1	Leishmania major strain LV39c5	LMJLV39_SCAF000769:613..1,188(+)	amastin-like surface protein-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_020007900	LMJLV39_020007900.1	Leishmania major strain LV39c5	LmjLV39_02:114,665..122,563(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_020008000	LMJLV39_020008000.1	Leishmania major strain LV39c5	LmjLV39_02:126,369..128,453(-)	Soluble NSF attachment protein, SNAP, putative	LmxM.02.0310
+LMJLV39_020009500	LMJLV39_020009500.1	Leishmania major strain LV39c5	LmjLV39_02:173,599..174,561(-)	amino acid permease, putative	LmxM.30.0350
+LMJLV39_020011000	LMJLV39_020011000.1	Leishmania major strain LV39c5	LmjLV39_02:251,776..263,112(+)	hypothetical protein, conserved	LmxM.02.0580
+LMJLV39_030006100	LMJLV39_030006100.1	Leishmania major strain LV39c5	LmjLV39_03:27,048..29,711(+)	hypothetical protein, conserved	LmxM.03.0110
+LMJLV39_030006200	LMJLV39_030006200.1	Leishmania major strain LV39c5	LmjLV39_03:30,478..33,255(+)	hypothetical protein, conserved	LmxM.03.0120
+LMJLV39_030007700	LMJLV39_030007700.1	Leishmania major strain LV39c5	LmjLV39_03:66,287..67,042(+)	FYVE zinc finger containing protein, putative	LmxM.03.0270
+LMJLV39_030007800	LMJLV39_030007800.1	Leishmania major strain LV39c5	LmjLV39_03:74,132..75,937(+)	hypothetical protein, conserved	LmxM.03.0270
+LMJLV39_030008300	LMJLV39_030008300.1	Leishmania major strain LV39c5	LmjLV39_03:93,023..96,121(+)	hypothetical protein, conserved	LmxM.03.0320
+LMJLV39_030008600	LMJLV39_030008600.1	Leishmania major strain LV39c5	LmjLV39_03:102,396..106,976(+)	protein kinase, putative	LmxM.03.0350
+LMJLV39_030008700	LMJLV39_030008700.1	Leishmania major strain LV39c5	LmjLV39_03:111,015..115,979(+)	hypothetical protein, conserved	LmxM.03.0360
+LMJLV39_030009800	LMJLV39_030009800.1	Leishmania major strain LV39c5	LmjLV39_03:159,463..162,648(+)	hypothetical protein, conserved	LmxM.03.0460
+LMJLV39_030010200	LMJLV39_030010200.1	Leishmania major strain LV39c5	LmjLV39_03:176,562..179,744(+)	hypothetical protein, conserved	LmxM.03.0490
+LMJLV39_030010300	LMJLV39_030010300.1	Leishmania major strain LV39c5	LmjLV39_03:181,078..182,796(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJLV39_030010400	LMJLV39_030010400.1	Leishmania major strain LV39c5	LmjLV39_03:185,211..192,875(+)	hypothetical protein, conserved	LmxM.03.0510
+LMJLV39_030010600	LMJLV39_030010600.1	Leishmania major strain LV39c5	LmjLV39_03:197,719..204,309(+)	hypothetical protein, conserved	LmxM.03.0530
+LMJLV39_040016500	LMJLV39_040016500.1	Leishmania major strain LV39c5	LmjLV39_04:399,819..404,159(-)	hypothetical protein, conserved	LmxM.04.1090
+LMJLV39_040017000	LMJLV39_040017000.1	Leishmania major strain LV39c5	LmjLV39_04:416,373..417,275(-)	hypothetical protein, conserved	LmxM.04.1140
+LMJLV39_050012600	LMJLV39_050012600.1	Leishmania major strain LV39c5	LmjLV39_05:283,035..287,099(+)	hypothetical protein, conserved	LmxM.05.0770
+LMJLV39_080012000	LMJLV39_080012000.1	Leishmania major strain LV39c5	LmjLV39_08:285,216..285,740(+)	hypothetical protein	LmxM.33.1590
+LMJLV39_080012100	LMJLV39_080012100.1	Leishmania major strain LV39c5	LmjLV39_08:287,050..287,664(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_080012200	LMJLV39_080012200.1	Leishmania major strain LV39c5	LmjLV39_08:288,420..289,034(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_090021400	LMJLV39_090021400.1	Leishmania major strain LV39c5	LmjLV39_09:523,965..525,581(-)	Glycosyl hydrolase family 47, putative	LmxM.09.1400
+LMJLV39_100005000	LMJLV39_100005000.1	Leishmania major strain LV39c5	LmjLV39_10:1..552(-)	Phosphate transporter family, putative	LmxM.03.0500
+LMJLV39_100013200	LMJLV39_100013200.1	Leishmania major strain LV39c5	LmjLV39_10:329,615..331,081(-)	amino acid permease 24, putative	LmxM.10.0720
+LMJLV39_110017300	LMJLV39_110017300.1	Leishmania major strain LV39c5	LmjLV39_11:411,074..416,668(+)	hypothetical protein, conserved	LmxM.11.1020
+LMJLV39_110018500	LMJLV39_110018500.1	Leishmania major strain LV39c5	LmjLV39_11:453,078..454,436(+)	palmitoyl acyltransferase 7, putative	LmxM.11.1090
+LMJLV39_110018600	LMJLV39_110018600.1	Leishmania major strain LV39c5	LmjLV39_11:456,831..458,270(+)	sterol 14-alpha-demethylase, putative	LmxM.11.1100
+LMJLV39_110019000	LMJLV39_110019000.1	Leishmania major strain LV39c5	LmjLV39_11:467,094..470,582(+)	protein transport protein SEC31, putative	LmxM.11.1160
+LMJLV39_110019700	LMJLV39_110019700.1	Leishmania major strain LV39c5	LmjLV39_11:490,848..496,574(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110019800	LMJLV39_110019800.1	Leishmania major strain LV39c5	LmjLV39_11:501,095..506,791(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110019900	LMJLV39_110019900.1	Leishmania major strain LV39c5	LmjLV39_11:509,152..509,436(+)	hypothetical protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110020000	LMJLV39_110020000.1	Leishmania major strain LV39c5	LmjLV39_11:509,715..510,203(+)	ABC transporter-like protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110020100	LMJLV39_110020100.1	Leishmania major strain LV39c5	LmjLV39_11:512,082..517,466(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110020300	LMJLV39_110020300.1	Leishmania major strain LV39c5	LmjLV39_11:526,294..532,212(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_110020900	LMJLV39_110020900.1	Leishmania major strain LV39c5	LmjLV39_11:551,707..552,309(+)	hypothetical protein, conserved	LmxM.11.1350
+LMJLV39_110021300	LMJLV39_110021300.1	Leishmania major strain LV39c5	LmjLV39_11:559,695..560,855(+)	Variant SH3 domain containing protein, putative	LmxM.11.1380
+LMJLV39_120012900	LMJLV39_120012900.1	Leishmania major strain LV39c5	LmjLV39_12:385,665..386,822(+)	surface antigen protein 2 precursor	LmxM.12.0890
+LMJLV39_130015000	LMJLV39_130015000.1	Leishmania major strain LV39c5	LmjLV39_13:352,946..357,730(-)	hypothetical protein, conserved	LmxM.13.1080
+LMJLV39_150005700	LMJLV39_150005700.1	Leishmania major strain LV39c5	LmjLV39_15:22,340..24,025(-)	hypothetical protein, conserved	LmxM.15.0070
+LMJLV39_150006700	LMJLV39_150006700.1	Leishmania major strain LV39c5	LmjLV39_15:58,154..60,661(-)	zinc finger (CCCH type) protein, putative	LmxM.15.0160
+LMJLV39_150008800	LMJLV39_150008800.1	Leishmania major strain LV39c5	LmjLV39_15:114,045..116,447(+)	hypothetical protein, conserved	LmxM.15.0290
+LMJLV39_150009000	LMJLV39_150009000.1	Leishmania major strain LV39c5	LmjLV39_15:119,544..121,508(+)	hypothetical protein, conserved	LmxM.15.0310
+LMJLV39_150010700	LMJLV39_150010700.1	Leishmania major strain LV39c5	LmjLV39_15:185,920..188,061(+)	hypothetical protein, conserved	LmxM.15.0490
+LMJLV39_150010800	LMJLV39_150010800.1	Leishmania major strain LV39c5	LmjLV39_15:188,999..192,004(+)	metalloprotease, putative	LmxM.15.0500
+LMJLV39_150011100	LMJLV39_150011100.1	Leishmania major strain LV39c5	LmjLV39_15:199,134..204,773(+)	hypothetical protein, conserved	LmxM.15.0530
+LMJLV39_150011200	LMJLV39_150011200.1	Leishmania major strain LV39c5	LmjLV39_15:206,703..208,742(+)	hypothetical protein, conserved	LmxM.15.0540
+LMJLV39_150012100	LMJLV39_150012100.1	Leishmania major strain LV39c5	LmjLV39_15:248,068..250,314(+)	hypothetical protein, conserved	LmxM.15.0630
+LMJLV39_150013600	LMJLV39_150013600.1	Leishmania major strain LV39c5	LmjLV39_15:318,685..326,763(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_160009800	LMJLV39_160009800.1	Leishmania major strain LV39c5	LmjLV39_16:153,275..156,691(-)	fucose kinase, putative	LmxM.16.0480
+LMJLV39_160010200	LMJLV39_160010200.1	Leishmania major strain LV39c5	LmjLV39_16:169,444..169,782(-)	hypothetical protein	LmxM.16.0480
+LMJLV39_160013100	LMJLV39_160013100.1	Leishmania major strain LV39c5	LmjLV39_16:272,098..273,090(-)	transaldolase, putative	LmxM.16.0760
+LMJLV39_170006100	LMJLV39_170006100.1	Leishmania major strain LV39c5	LmjLV39_17:31,950..36,083(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006400	LMJLV39_170006400.1	Leishmania major strain LV39c5	LmjLV39_17:44,032..44,475(-)	hypothetical protein	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006500	LMJLV39_170006500.1	Leishmania major strain LV39c5	LmjLV39_17:44,523..47,951(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006600	LMJLV39_170006600.1	Leishmania major strain LV39c5	LmjLV39_17:52,549..53,043(-)	hypothetical protein	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006700	LMJLV39_170006700.1	Leishmania major strain LV39c5	LmjLV39_17:53,178..53,674(-)	hypothetical protein	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006800	LMJLV39_170006800.1	Leishmania major strain LV39c5	LmjLV39_17:55,583..56,494(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170006900	LMJLV39_170006900.1	Leishmania major strain LV39c5	LmjLV39_17:57,159..58,844(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170007000	LMJLV39_170007000.1	Leishmania major strain LV39c5	LmjLV39_17:58,945..60,200(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170007100	LMJLV39_170007100.1	Leishmania major strain LV39c5	LmjLV39_17:60,403..61,446(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJLV39_170011000	LMJLV39_170011000.1	Leishmania major strain LV39c5	LmjLV39_17:243,132..246,704(-)	hypothetical protein, conserved	LmxM.17.0530
+LMJLV39_170022200	LMJLV39_170022200.1	Leishmania major strain LV39c5	LmjLV39_17:643,826..648,355(+)	Ion transport protein, putative	LmxM.17.1440
+LMJLV39_200016800	LMJLV39_200016800.1	Leishmania major strain LV39c5	LmjLV39_20:488,420..498,262(+)	phosphatidylinositol 3-kinase, putative	LmxM.20.1120
+LMJLV39_200021700	LMJLV39_200021700.1	Leishmania major strain LV39c5	LmjLV39_20:661,490..664,351(-)	hypothetical protein, conserved	LmxM.20.1500
+LMJLV39_210009600	LMJLV39_210009600.1	Leishmania major strain LV39c5	LmjLV39_21:131,196..132,437(+)	hypothetical protein, conserved	LmxM.21.0430
+LMJLV39_220018700	LMJLV39_220018700.1	Leishmania major strain LV39c5	LmjLV39_22:524,226..525,425(-)	hypothetical protein, conserved	LmxM.22.1320
+LMJLV39_220018800	LMJLV39_220018800.1	Leishmania major strain LV39c5	LmjLV39_22:528,327..533,012(-)	hypothetical protein, conserved	LmxM.22.1320
+LMJLV39_220018900	LMJLV39_220018900.1	Leishmania major strain LV39c5	LmjLV39_22:537,328..539,910(-)	hypothetical protein, conserved	LmxM.22.1330
+LMJLV39_220019000	LMJLV39_220019000.1	Leishmania major strain LV39c5	LmjLV39_22:539,963..541,972(-)	hypothetical protein, conserved	LmxM.22.1330
+LMJLV39_220019200	LMJLV39_220019200.1	Leishmania major strain LV39c5	LmjLV39_22:548,325..549,512(-)	palmitoyl acyltransferase 11, putative	LmxM.11.1090
+LMJLV39_220022500	LMJLV39_220022500.1	Leishmania major strain LV39c5	LmjLV39_22:657,080..658,240(+)	CobW/HypB/UreG, nucleotide-binding domain containing protein, putative	LmxM.22.1650
+LMJLV39_230014800	LMJLV39_230014800.1	Leishmania major strain LV39c5	LmjLV39_23:314,332..315,999(-)	hypothetical protein, conserved	LmxM.23.0640
+LMJLV39_230027100	LMJLV39_230027100.1	Leishmania major strain LV39c5	LmjLV39_23:754,932..757,829(+)	hypothetical protein, conserved	LmxM.23.1540
+LMJLV39_230027200	LMJLV39_230027200.1	Leishmania major strain LV39c5	LmjLV39_23:758,777..761,161(+)	HAT (Half-A-TPR) repeats, putative	LmxM.23.1550
+LMJLV39_240005000	LMJLV39_240005000.1	Leishmania major strain LV39c5	LmjLV39_24:2,245..3,723(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJLV39_240006300	LMJLV39_240006300.1	Leishmania major strain LV39c5	LmjLV39_24:36,050..36,889(+)	Calmodulin-binding, putative	LmxM.24.0100
+LMJLV39_240010200	LMJLV39_240010200.1	Leishmania major strain LV39c5	LmjLV39_24:179,110..180,372(+)	hypothetical protein, conserved	LmxM.24.0470
+LMJLV39_240010300	LMJLV39_240010300.1	Leishmania major strain LV39c5	LmjLV39_24:184,201..187,863(+)	Kelch motif/Galactose oxidase, central domain containing protein, putative	LmxM.24.0480
+LMJLV39_240012500	LMJLV39_240012500.1	Leishmania major strain LV39c5	LmjLV39_24:262,801..263,325(+)	hypothetical protein, conserved	LmxM.24.0690
+LMJLV39_240031300	LMJLV39_240031300.1	Leishmania major strain LV39c5	LmjLV39_24:862,139..863,554(+)	SpoU rRNA Methylase family, putative	LmxM.24.2340
+LMJLV39_260012500	LMJLV39_260012500.1	Leishmania major strain LV39c5	LmjLV39_26:190,250..193,057(-)	sphingosine kinase A, B, putative	LmxM.26.0710
+LMJLV39_260027700	LMJLV39_260027700.1	Leishmania major strain LV39c5	LmjLV39_26:812,403..824,891(+)	hypothetical protein, conserved	LmxM.26.2120
+LMJLV39_270009900	LMJLV39_270009900.1	Leishmania major strain LV39c5	LmjLV39_27:145,578..153,905(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJLV39_270010000	LMJLV39_270010000.1	Leishmania major strain LV39c5	LmjLV39_27:153,923..154,510(+)	hypothetical protein	LmxM.15.0440
+LMJLV39_270010100	LMJLV39_270010100.1	Leishmania major strain LV39c5	LmjLV39_27:156,722..159,982(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJLV39_270010300	LMJLV39_270010300.1	Leishmania major strain LV39c5	LmjLV39_27:167,044..185,538(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJLV39_270010500	LMJLV39_270010500.1	Leishmania major strain LV39c5	LmjLV39_27:196,728..210,905(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJLV39_270012200	LMJLV39_270012200.1	Leishmania major strain LV39c5	LmjLV39_27:261,577..262,096(+)	Transmembrane amino acid transporter protein, putative	LmxM.30.0350
+LMJLV39_270012300	LMJLV39_270012300.1	Leishmania major strain LV39c5	LmjLV39_27:267,328..268,935(+)	amino acid permease, putative	LmxM.27.0680
+LMJLV39_270015600	LMJLV39_270015600.1	Leishmania major strain LV39c5	LmjLV39_27:408,000..413,531(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_270015700	LMJLV39_270015700.1	Leishmania major strain LV39c5	LmjLV39_27:415,536..416,855(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_270026100	LMJLV39_270026100.1	Leishmania major strain LV39c5	LmjLV39_27:807,415..811,224(-)	hypothetical protein, conserved	LmxM.27.1895
+LMJLV39_280039300	LMJLV39_280039300.1	Leishmania major strain LV39c5	LmjLV39_28:1,151,314..1,151,744(-)	hypothetical protein, conserved	LmxM.28.3030
+LMJLV39_290011600	LMJLV39_290011600.1	Leishmania major strain LV39c5	LmjLV39_29:231,446..237,046(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJLV39_290011900	LMJLV39_290011900.1	Leishmania major strain LV39c5	LmjLV39_29:244,109..246,238(-)	phosphate transporter, putative	LmxM.03.0500
+LMJLV39_290028000	LMJLV39_290028000.1	Leishmania major strain LV39c5	LmjLV39_29:877,143..879,587(-)	serine/threonine protein kinase, putative	LmxM.08_29.2020
+LMJLV39_300017200	LMJLV39_300017200.1	Leishmania major strain LV39c5	LmjLV39_30:354,753..362,498(+)	IQ calmodulin-binding motif containing protein, putative	LmxM.29.1080
+LMJLV39_300018900	LMJLV39_300018900.1	Leishmania major strain LV39c5	LmjLV39_30:424,678..425,919(+)	calcium-binding protein, putative	LmxM.29.1240
+LMJLV39_310005000	LMJLV39_310005000.1	Leishmania major strain LV39c5	LmjLV39_31:2,785..5,097(-)	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase	LmxM.30.0010
+LMJLV39_310005200	LMJLV39_310005200.1	Leishmania major strain LV39c5	LmjLV39_31:9,076..12,150(-)	hypothetical protein, conserved	LmxM.30.0030
+LMJLV39_310008100	LMJLV39_310008100.1	Leishmania major strain LV39c5	LmjLV39_31:73,503..74,528(-)	Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)/Endoplasmic reticulum vesicle transporter, putative	LmxM.30.0280
+LMJLV39_310008500	LMJLV39_310008500.1	Leishmania major strain LV39c5	LmjLV39_31:90,047..91,654(-)	amino acid permease, putative	LmxM.27.0680
+LMJLV39_310008600	LMJLV39_310008600.1	Leishmania major strain LV39c5	LmjLV39_31:95,377..96,087(-)	Transmembrane amino acid transporter protein, putative	LmxM.30.0350
+LMJLV39_310008700	LMJLV39_310008700.1	Leishmania major strain LV39c5	LmjLV39_31:102,254..103,657(-)	amino acid permease, putative	LmxM.30.0350
+LMJLV39_310008800	LMJLV39_310008800.1	Leishmania major strain LV39c5	LmjLV39_31:107,339..108,874(-)	amino acid permease, putative	LmxM.30.0350
+LMJLV39_310008900	LMJLV39_310008900.1	Leishmania major strain LV39c5	LmjLV39_31:110,264..113,239(-)	CRAL/TRIO domain containing protein, putative	LmxM.30.0360
+LMJLV39_310009900	LMJLV39_310009900.1	Leishmania major strain LV39c5	LmjLV39_31:151,467..152,060(-)	amastin, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJLV39_310013700	LMJLV39_310013700.1	Leishmania major strain LV39c5	LmjLV39_31:289,892..292,102(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJLV39_310013800	LMJLV39_310013800.1	Leishmania major strain LV39c5	LmjLV39_31:293,543..295,432(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJLV39_310013900	LMJLV39_310013900.1	Leishmania major strain LV39c5	LmjLV39_31:297,822..298,568(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJLV39_310031500	LMJLV39_310031500.1	Leishmania major strain LV39c5	LmjLV39_31:1,075,719..1,082,120(-)	hypothetical protein, conserved	LmxM.30.2220
+LMJLV39_310041700	LMJLV39_310041700.1	Leishmania major strain LV39c5	LmjLV39_31:1,399,355..1,400,653(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LMJLV39_310041800	LMJLV39_310041800.1	Leishmania major strain LV39c5	LmjLV39_31:1,403,482..1,404,780(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LMJLV39_320025600	LMJLV39_320025600.1	Leishmania major strain LV39c5	LmjLV39_32:748,848..750,200(-)	hypothetical protein, conserved	LmxM.31.1910
+LMJLV39_330019100	LMJLV39_330019100.1	Leishmania major strain LV39c5	LmjLV39_33:445,452..445,895(+)	hypothetical protein, conserved	LmxM.32.1160
+LMJLV39_330019800	LMJLV39_330019800.1	Leishmania major strain LV39c5	LmjLV39_33:468,819..470,684(+)	WD domain, G-beta repeat, putative	LmxM.32.1240
+LMJLV39_330019900	LMJLV39_330019900.1	Leishmania major strain LV39c5	LmjLV39_33:471,678..474,278(+)	WD domain, G-beta repeat, putative	LmxM.32.1240
+LMJLV39_330023400	LMJLV39_330023400.1	Leishmania major strain LV39c5	LmjLV39_33:618,019..628,350(+)	Tetratricopeptide repeats, putative	LmxM.32.1490
+LMJLV39_330043400	LMJLV39_330043400.1	Leishmania major strain LV39c5	LmjLV39_33:1,384,564..1,384,884(+)	hypothetical protein	LmxM.32.3070partial
+LMJLV39_330043900	LMJLV39_330043900.1	Leishmania major strain LV39c5	LmjLV39_33:1,397,766..1,399,862(+)	hypothetical protein, conserved	LmxM.32.3070partial
+LMJLV39_330045300	LMJLV39_330045300.1	Leishmania major strain LV39c5	LmjLV39_33:1,441,197..1,443,851(+)	beta prime cop protein, putative	LmxM.32.3210
+LMJLV39_330045500	LMJLV39_330045500.1	Leishmania major strain LV39c5	LmjLV39_33:1,447,471..1,449,075(+)	hypothetical protein, conserved	LmxM.32.3220
+LMJLV39_340036000	LMJLV39_340036000.1	Leishmania major strain LV39c5	LmjLV39_34:1,215,603..1,217,513(+)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJLV39_340047200	LMJLV39_340047200.1	Leishmania major strain LV39c5	LmjLV39_34:1,575,342..1,578,062(+)	ubiquitin hydrolase, putative	LmxM.33.4060
+LMJLV39_350051900	LMJLV39_350051900.1	Leishmania major strain LV39c5	LmjLV39_35:1,686,641..1,688,185(+)	hypothetical protein, conserved	LmxM.34.4380
+LMJLV39_360018500	LMJLV39_360018500.1	Leishmania major strain LV39c5	LmjLV39_36:463,763..465,757(+)	tuzin-like protein	LmxM.33.1590
+LMJLV39_360034300	LMJLV39_360034300.1	Leishmania major strain LV39c5	LmjLV39_36:1,045,489..1,047,651(-)	cyclin-e binding protein 1-like protein	LmxM.36.2600
+LMJLV39_360062200	LMJLV39_360062200.1	Leishmania major strain LV39c5	LmjLV39_36:1,944,496..1,947,033(-)	hypothetical protein, conserved	LmxM.03.0320
+LMJLV39_360079500	LMJLV39_360079500.1	Leishmania major strain LV39c5	LmjLV39_36:2,526,999..2,528,198(-)	cop9 signalosome complex subunit, putative	LmxM.36.6510
+LMJSD75_020007900	LMJSD75_020007900.1	Leishmania major strain SD 75.1	JH605089:119,102..126,340(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_020008000	LMJSD75_020008000.1	Leishmania major strain SD 75.1	JH605089:126,358..127,065(-)	hypothetical protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_020008100	LMJSD75_020008100.1	Leishmania major strain SD 75.1	JH605089:130,874..132,958(-)	Soluble NSF attachment protein, SNAP, putative	LmxM.02.0310
+LMJSD75_020009600	LMJSD75_020009600.1	Leishmania major strain SD 75.1	JH605089:178,397..179,368(-)	amino acid permease, putative	LmxM.30.0350
+LMJSD75_020011100	LMJSD75_020011100.1	Leishmania major strain SD 75.1	JH605089:252,644..263,980(+)	hypothetical protein, conserved	LmxM.02.0580
+LMJSD75_030006100	LMJSD75_030006100.1	Leishmania major strain SD 75.1	JH605090:27,339..30,002(+)	hypothetical protein, conserved	LmxM.03.0110
+LMJSD75_030006200	LMJSD75_030006200.1	Leishmania major strain SD 75.1	JH605090:30,764..33,541(+)	hypothetical protein, conserved	LmxM.03.0120
+LMJSD75_030007700	LMJSD75_030007700.1	Leishmania major strain SD 75.1	JH605090:66,571..68,184(+)	FYVE zinc finger/Apolipoprotein A1/A4/E domain containing protein, putative	LmxM.03.0270
+LMJSD75_030007800	LMJSD75_030007800.1	Leishmania major strain SD 75.1	JH605090:70,084..71,886(+)	hypothetical protein, conserved	LmxM.03.0270
+LMJSD75_030008400	LMJSD75_030008400.1	Leishmania major strain SD 75.1	JH605090:89,064..92,162(+)	hypothetical protein, conserved	LmxM.03.0320
+LMJSD75_030008700	LMJSD75_030008700.1	Leishmania major strain SD 75.1	JH605090:98,465..103,045(+)	protein kinase, putative	LmxM.03.0350
+LMJSD75_030008800	LMJSD75_030008800.1	Leishmania major strain SD 75.1	JH605090:107,121..112,097(+)	hypothetical protein, conserved	LmxM.03.0360
+LMJSD75_030009800	LMJSD75_030009800.1	Leishmania major strain SD 75.1	JH605090:154,840..158,028(+)	hypothetical protein, conserved	LmxM.03.0460
+LMJSD75_030010200	LMJSD75_030010200.1	Leishmania major strain SD 75.1	JH605090:171,941..175,123(+)	hypothetical protein, conserved	LmxM.03.0490
+LMJSD75_030010300	LMJSD75_030010300.1	Leishmania major strain SD 75.1	JH605090:176,448..178,166(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJSD75_030010400	LMJSD75_030010400.1	Leishmania major strain SD 75.1	JH605090:180,624..188,288(+)	hypothetical protein, conserved	LmxM.03.0510
+LMJSD75_030010600	LMJSD75_030010600.1	Leishmania major strain SD 75.1	JH605090:192,882..199,460(+)	hypothetical protein, conserved	LmxM.03.0530
+LMJSD75_040016800	LMJSD75_040016800.1	Leishmania major strain SD 75.1	JH605091:394,491..398,831(-)	hypothetical protein, conserved	LmxM.04.1090
+LMJSD75_040017300	LMJSD75_040017300.1	Leishmania major strain SD 75.1	JH605091:411,043..411,945(-)	hypothetical protein, conserved	LmxM.04.1140
+LMJSD75_050012900	LMJSD75_050012900.1	Leishmania major strain SD 75.1	JH605092:278,669..282,742(+)	hypothetical protein, conserved	LmxM.05.0770
+LMJSD75_080012700	LMJSD75_080012700.1	Leishmania major strain SD 75.1	JH605095:302,338..302,952(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJSD75_080012800	LMJSD75_080012800.1	Leishmania major strain SD 75.1	JH605095:304,232..304,756(+)	hypothetical protein	LmxM.33.1590
+LMJSD75_080012900	LMJSD75_080012900.1	Leishmania major strain SD 75.1	JH605095:305,261..305,491(+)	Amastin surface glycoprotein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJSD75_090021000	LMJSD75_090021000.1	Leishmania major strain SD 75.1	JH605096:516,981..518,597(-)	Glycosyl hydrolase family 47, putative	LmxM.09.1400
+LMJSD75_100005100	LMJSD75_100005100.1	Leishmania major strain SD 75.1	JH605097:4,597..6,078(-)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJSD75_100013400	LMJSD75_100013400.1	Leishmania major strain SD 75.1	JH605097:326,079..326,528(-)	hypothetical protein	LmxM.10.0720
+LMJSD75_100013500	LMJSD75_100013500.1	Leishmania major strain SD 75.1	JH605097:327,967..329,433(-)	amino acid permease 24, putative	LmxM.10.0720
+LMJSD75_100021200	LMJSD75_100021200.1	Leishmania major strain SD 75.1	JH605097:532,201..533,682(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LMJSD75_110017800	LMJSD75_110017800.1	Leishmania major strain SD 75.1	JH605098:404,494..410,088(+)	hypothetical protein, conserved	LmxM.11.1020
+LMJSD75_110019000	LMJSD75_110019000.1	Leishmania major strain SD 75.1	JH605098:446,716..448,071(+)	palmitoyl acyltransferase 7, putative	LmxM.11.1090
+LMJSD75_110019100	LMJSD75_110019100.1	Leishmania major strain SD 75.1	JH605098:450,469..451,908(+)	sterol 14-alpha-demethylase, putative	LmxM.11.1100
+LMJSD75_110019400	LMJSD75_110019400.1	Leishmania major strain SD 75.1	JH605098:461,012..464,488(+)	protein transport protein SEC31, putative	LmxM.11.1160
+LMJSD75_110020100	LMJSD75_110020100.1	Leishmania major strain SD 75.1	JH605098:484,457..484,915(+)	ABC transporter-like protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020200	LMJSD75_110020200.1	Leishmania major strain SD 75.1	JH605098:486,456..492,182(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020300	LMJSD75_110020300.1	Leishmania major strain SD 75.1	JH605098:496,712..502,408(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020400	LMJSD75_110020400.1	Leishmania major strain SD 75.1	JH605098:504,716..505,000(+)	hypothetical protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020500	LMJSD75_110020500.1	Leishmania major strain SD 75.1	JH605098:505,282..505,770(+)	ABC transporter-like protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020600	LMJSD75_110020600.1	Leishmania major strain SD 75.1	JH605098:507,216..512,600(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110020800	LMJSD75_110020800.1	Leishmania major strain SD 75.1	JH605098:521,443..527,361(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_110021400	LMJSD75_110021400.1	Leishmania major strain SD 75.1	JH605098:547,045..547,647(+)	hypothetical protein, conserved	LmxM.11.1350
+LMJSD75_110021800	LMJSD75_110021800.1	Leishmania major strain SD 75.1	JH605098:555,039..556,199(+)	Variant SH3 domain containing protein, putative	LmxM.11.1380
+LMJSD75_120012600	LMJSD75_120012600.1	Leishmania major strain SD 75.1	JH605099:380,124..381,350(+)	surface antigen protein 2 precursor	LmxM.12.0890
+LMJSD75_120012700	LMJSD75_120012700.1	Leishmania major strain SD 75.1	JH605099:384,175..385,419(+)	surface antigen protein 2, putative	LmxM.12.0890
+LMJSD75_120012800	LMJSD75_120012800.1	Leishmania major strain SD 75.1	JH605099:385,535..387,010(+)	surface antigen protein 2, putative	LmxM.12.0890
+LMJSD75_120012900	LMJSD75_120012900.1	Leishmania major strain SD 75.1	JH605099:387,023..388,480(+)	surface antigen protein, putative	LmxM.12.0890
+LMJSD75_120013100	LMJSD75_120013100.1	Leishmania major strain SD 75.1	JH605099:393,475..395,064(+)	surface antigen protein, putative	LmxM.12.0890
+LMJSD75_120013400	LMJSD75_120013400.1	Leishmania major strain SD 75.1	JH605099:400,497..401,306(+)	hypothetical protein	LmxM.12.0890
+LMJSD75_120013500	LMJSD75_120013500.1	Leishmania major strain SD 75.1	JH605099:402,874..404,463(+)	surface antigen protein, putative	LmxM.12.0890
+LMJSD75_120013600	LMJSD75_120013600.1	Leishmania major strain SD 75.1	JH605099:408,947..410,476(+)	surface antigen protein, putative	LmxM.12.0890
+LMJSD75_130015000	LMJSD75_130015000.1	Leishmania major strain SD 75.1	JH605100:350,590..355,374(-)	hypothetical protein, conserved	LmxM.13.1080
+LMJSD75_150005800	LMJSD75_150005800.1	Leishmania major strain SD 75.1	JH605102:22,386..24,071(-)	hypothetical protein, conserved	LmxM.15.0070
+LMJSD75_150006800	LMJSD75_150006800.1	Leishmania major strain SD 75.1	JH605102:58,240..60,747(-)	zinc finger (CCCH type) protein, putative	LmxM.15.0160
+LMJSD75_150008700	LMJSD75_150008700.1	Leishmania major strain SD 75.1	JH605102:113,315..115,717(+)	hypothetical protein, conserved	LmxM.15.0290
+LMJSD75_150008900	LMJSD75_150008900.1	Leishmania major strain SD 75.1	JH605102:118,605..120,569(+)	hypothetical protein, conserved	LmxM.15.0310
+LMJSD75_150010700	LMJSD75_150010700.1	Leishmania major strain SD 75.1	JH605102:175,089..177,230(+)	hypothetical protein, conserved	LmxM.15.0490
+LMJSD75_150010800	LMJSD75_150010800.1	Leishmania major strain SD 75.1	JH605102:178,168..181,173(+)	metalloprotease, putative	LmxM.15.0500
+LMJSD75_150011100	LMJSD75_150011100.1	Leishmania major strain SD 75.1	JH605102:188,256..193,895(+)	hypothetical protein, conserved	LmxM.15.0530
+LMJSD75_150011200	LMJSD75_150011200.1	Leishmania major strain SD 75.1	JH605102:195,353..197,392(+)	hypothetical protein, conserved	LmxM.15.0540
+LMJSD75_150012200	LMJSD75_150012200.1	Leishmania major strain SD 75.1	JH605102:235,716..238,589(+)	hypothetical protein, conserved	LmxM.15.0630
+LMJSD75_150013800	LMJSD75_150013800.1	Leishmania major strain SD 75.1	JH605102:307,275..315,362(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_160010100	LMJSD75_160010100.1	Leishmania major strain SD 75.1	JH605103:163,351..166,914(-)	fucose kinase, putative	LmxM.16.0480
+LMJSD75_160012900	LMJSD75_160012900.1	Leishmania major strain SD 75.1	JH605103:262,816..263,808(-)	transaldolase, putative	LmxM.16.0760
+LMJSD75_170006400	LMJSD75_170006400.1	Leishmania major strain SD 75.1	JH605104:36,289..44,148(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJSD75_170006600	LMJSD75_170006600.1	Leishmania major strain SD 75.1	JH605104:51,501..52,178(-)	hypothetical protein	LmxM.17.0190,LmxM.17.0200
+LMJSD75_170006700	LMJSD75_170006700.1	Leishmania major strain SD 75.1	JH605104:56,700..58,289(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJSD75_170006800	LMJSD75_170006800.1	Leishmania major strain SD 75.1	JH605104:58,525..60,468(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LMJSD75_170010700	LMJSD75_170010700.1	Leishmania major strain SD 75.1	JH605104:243,035..246,607(-)	hypothetical protein, conserved	LmxM.17.0530
+LMJSD75_170021900	LMJSD75_170021900.1	Leishmania major strain SD 75.1	JH605104:640,034..644,779(+)	Ion transport protein, putative	LmxM.17.1440
+LMJSD75_200016600	LMJSD75_200016600.1	Leishmania major strain SD 75.1	JH605108:478,013..487,861(+)	phosphatidylinositol 3-kinase, putative	LmxM.20.1120
+LMJSD75_200021700	LMJSD75_200021700.1	Leishmania major strain SD 75.1	JH605108:647,768..650,629(-)	hypothetical protein, conserved	LmxM.20.1500
+LMJSD75_210009700	LMJSD75_210009700.1	Leishmania major strain SD 75.1	JH605109:128,435..129,688(+)	hypothetical protein, conserved	LmxM.21.0430
+LMJSD75_220018900	LMJSD75_220018900.1	Leishmania major strain SD 75.1	JH605106:533,393..534,430(-)	hypothetical protein, conserved	LmxM.22.1320
+LMJSD75_220019000	LMJSD75_220019000.1	Leishmania major strain SD 75.1	JH605106:535,240..536,896(-)	hypothetical protein	LmxM.22.1320
+LMJSD75_220019100	LMJSD75_220019100.1	Leishmania major strain SD 75.1	JH605106:537,214..539,223(-)	hypothetical protein, conserved	LmxM.22.1320
+LMJSD75_220019200	LMJSD75_220019200.1	Leishmania major strain SD 75.1	JH605106:539,360..539,728(-)	hypothetical protein	LmxM.22.1320
+LMJSD75_220019300	LMJSD75_220019300.1	Leishmania major strain SD 75.1	JH605106:540,112..540,924(-)	hypothetical protein	LmxM.22.1320
+LMJSD75_220019400	LMJSD75_220019400.1	Leishmania major strain SD 75.1	JH605106:540,957..544,916(-)	hypothetical protein, conserved	LmxM.22.1320
+LMJSD75_220019500	LMJSD75_220019500.1	Leishmania major strain SD 75.1	JH605106:548,649..550,727(-)	hypothetical protein, conserved	LmxM.22.1330
+LMJSD75_220019600	LMJSD75_220019600.1	Leishmania major strain SD 75.1	JH605106:550,829..552,703(-)	hypothetical protein, conserved	LmxM.22.1330
+LMJSD75_220019800	LMJSD75_220019800.1	Leishmania major strain SD 75.1	JH605106:559,255..560,442(-)	palmitoyl acyltransferase 11, putative	LmxM.11.1090
+LMJSD75_220023100	LMJSD75_220023100.1	Leishmania major strain SD 75.1	JH605106:667,580..668,740(+)	CobW/HypB/UreG, nucleotide-binding domain containing protein, putative	LmxM.22.1650
+LMJSD75_230015100	LMJSD75_230015100.1	Leishmania major strain SD 75.1	JH605110:306,401..308,068(-)	hypothetical protein, conserved	LmxM.23.0640
+LMJSD75_230027700	LMJSD75_230027700.1	Leishmania major strain SD 75.1	JH605110:741,177..744,074(+)	hypothetical protein, conserved	LmxM.23.1540
+LMJSD75_230027800	LMJSD75_230027800.1	Leishmania major strain SD 75.1	JH605110:745,026..747,410(+)	HAT (Half-A-TPR) repeats, putative	LmxM.23.1550
+LMJSD75_240006000	LMJSD75_240006000.1	Leishmania major strain SD 75.1	JH605111:20,147..20,986(+)	Calmodulin-binding, putative	LmxM.24.0100
+LMJSD75_240009800	LMJSD75_240009800.1	Leishmania major strain SD 75.1	JH605111:154,507..155,769(+)	hypothetical protein, conserved	LmxM.24.0470
+LMJSD75_240010000	LMJSD75_240010000.1	Leishmania major strain SD 75.1	JH605111:163,083..166,745(+)	Kelch motif/Galactose oxidase, central domain containing protein, putative	LmxM.24.0480
+LMJSD75_240012100	LMJSD75_240012100.1	Leishmania major strain SD 75.1	JH605111:239,124..239,648(+)	hypothetical protein, conserved	LmxM.24.0690
+LMJSD75_240030600	LMJSD75_240030600.1	Leishmania major strain SD 75.1	JH605111:834,602..836,017(+)	SpoU rRNA Methylase family, putative	LmxM.24.2340
+LMJSD75_260011000	LMJSD75_260011000.1	Leishmania major strain SD 75.1	JH605113:164,133..166,940(-)	sphingosine kinase A, B, putative	LmxM.26.0710
+LMJSD75_260026100	LMJSD75_260026100.1	Leishmania major strain SD 75.1	JH605113:781,687..794,166(+)	hypothetical protein, conserved	LmxM.26.2120
+LMJSD75_270009900	LMJSD75_270009900.1	Leishmania major strain SD 75.1	JH605114:141,399..148,238(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJSD75_270010000	LMJSD75_270010000.1	Leishmania major strain SD 75.1	JH605114:148,431..151,691(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJSD75_270010200	LMJSD75_270010200.1	Leishmania major strain SD 75.1	JH605114:158,778..177,329(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJSD75_270010300	LMJSD75_270010300.1	Leishmania major strain SD 75.1	JH605114:188,565..190,559(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJSD75_270010400	LMJSD75_270010400.1	Leishmania major strain SD 75.1	JH605114:190,891..201,717(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LMJSD75_270012100	LMJSD75_270012100.1	Leishmania major strain SD 75.1	JH605114:252,316..252,996(+)	Transmembrane amino acid transporter protein, putative	LmxM.30.0350
+LMJSD75_270012200	LMJSD75_270012200.1	Leishmania major strain SD 75.1	JH605114:252,998..254,401(+)	amino acid permease, putative	LmxM.30.0350
+LMJSD75_270012300	LMJSD75_270012300.1	Leishmania major strain SD 75.1	JH605114:256,717..257,796(+)	amino acid permease, putative	LmxM.27.0680
+LMJSD75_270015600	LMJSD75_270015600.1	Leishmania major strain SD 75.1	JH605114:393,470..398,098(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_270015700	LMJSD75_270015700.1	Leishmania major strain SD 75.1	JH605114:404,599..405,739(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_270015800	LMJSD75_270015800.1	Leishmania major strain SD 75.1	JH605114:406,535..406,735(-)	hypothetical protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_270015900	LMJSD75_270015900.1	Leishmania major strain SD 75.1	JH605114:406,807..408,171(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_270026100	LMJSD75_270026100.1	Leishmania major strain SD 75.1	JH605114:796,230..800,039(-)	hypothetical protein, conserved	LmxM.27.1895
+LMJSD75_280038700	LMJSD75_280038700.1	Leishmania major strain SD 75.1	JH605115:1,142,123..1,145,095(-)	hypothetical protein, conserved	LmxM.28.3030
+LMJSD75_290011600	LMJSD75_290011600.1	Leishmania major strain SD 75.1	JH605116:229,961..235,561(-)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_290011900	LMJSD75_290011900.1	Leishmania major strain SD 75.1	JH605116:242,619..244,748(-)	phosphate transporter, putative	LmxM.03.0500
+LMJSD75_290028200	LMJSD75_290028200.1	Leishmania major strain SD 75.1	JH605116:858,271..860,715(-)	serine/threonine protein kinase, putative	LmxM.08_29.2020
+LMJSD75_300016800	LMJSD75_300016800.1	Leishmania major strain SD 75.1	JH605117:351,424..359,169(+)	IQ calmodulin-binding motif containing protein, putative	LmxM.29.1080
+LMJSD75_300018600	LMJSD75_300018600.1	Leishmania major strain SD 75.1	JH605117:420,081..421,322(+)	calcium-binding protein, putative	LmxM.29.1240
+LMJSD75_310005000	LMJSD75_310005000.1	Leishmania major strain SD 75.1	JH605118:2,958..5,270(-)	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase	LmxM.30.0010
+LMJSD75_310005200	LMJSD75_310005200.1	Leishmania major strain SD 75.1	JH605118:9,268..12,342(-)	hypothetical protein, conserved	LmxM.30.0030
+LMJSD75_310008100	LMJSD75_310008100.1	Leishmania major strain SD 75.1	JH605118:73,657..74,682(-)	Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)/Endoplasmic reticulum vesicle transporter, putative	LmxM.30.0280
+LMJSD75_310008500	LMJSD75_310008500.1	Leishmania major strain SD 75.1	JH605118:90,260..91,060(-)	hypothetical protein	LmxM.27.0680
+LMJSD75_310008600	LMJSD75_310008600.1	Leishmania major strain SD 75.1	JH605118:93,334..94,116(-)	Transmembrane amino acid transporter protein, putative	LmxM.30.0350
+LMJSD75_310008700	LMJSD75_310008700.1	Leishmania major strain SD 75.1	JH605118:99,162..99,746(-)	Transmembrane amino acid transporter protein, putative	LmxM.30.0350
+LMJSD75_310008800	LMJSD75_310008800.1	Leishmania major strain SD 75.1	JH605118:103,434..104,969(-)	amino acid permease, putative	LmxM.30.0350
+LMJSD75_310008900	LMJSD75_310008900.1	Leishmania major strain SD 75.1	JH605118:106,351..109,326(-)	CRAL/TRIO domain containing protein, putative	LmxM.30.0360
+LMJSD75_310013400	LMJSD75_310013400.1	Leishmania major strain SD 75.1	JH605118:275,969..277,741(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJSD75_310013500	LMJSD75_310013500.1	Leishmania major strain SD 75.1	JH605118:279,183..281,072(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJSD75_310013600	LMJSD75_310013600.1	Leishmania major strain SD 75.1	JH605118:283,467..284,213(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJSD75_310031500	LMJSD75_310031500.1	Leishmania major strain SD 75.1	JH605118:1,044,865..1,051,266(-)	hypothetical protein, conserved	LmxM.30.2220
+LMJSD75_310041600	LMJSD75_310041600.1	Leishmania major strain SD 75.1	JH605118:1,367,809..1,369,107(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LMJSD75_310041700	LMJSD75_310041700.1	Leishmania major strain SD 75.1	JH605118:1,371,939..1,372,160(-)	hypothetical protein	LmxM.30.3060,LmxM.30.3070
+LMJSD75_310041800	LMJSD75_310041800.1	Leishmania major strain SD 75.1	JH605118:1,372,290..1,372,696(-)	ZIP Zinc transporter, putative	LmxM.30.3060,LmxM.30.3070
+LMJSD75_310041900	LMJSD75_310041900.1	Leishmania major strain SD 75.1	JH605118:1,374,370..1,374,726(-)	ZIP Zinc transporter, putative	LmxM.30.3060,LmxM.30.3070
+LMJSD75_320025600	LMJSD75_320025600.1	Leishmania major strain SD 75.1	JH605119:747,617..748,969(-)	hypothetical protein, conserved	LmxM.31.1910
+LMJSD75_330018800	LMJSD75_330018800.1	Leishmania major strain SD 75.1	JH605120:434,460..434,903(+)	hypothetical protein, conserved	LmxM.32.1160
+LMJSD75_330019500	LMJSD75_330019500.1	Leishmania major strain SD 75.1	JH605120:457,313..459,178(+)	WD domain, G-beta repeat, putative	LmxM.32.1240
+LMJSD75_330019600	LMJSD75_330019600.1	Leishmania major strain SD 75.1	JH605120:460,174..462,903(+)	WD domain, G-beta repeat, putative	LmxM.32.1240
+LMJSD75_330023100	LMJSD75_330023100.1	Leishmania major strain SD 75.1	JH605120:603,788..614,122(+)	Tetratricopeptide repeats, putative	LmxM.32.1490
+LMJSD75_330042600	LMJSD75_330042600.1	Leishmania major strain SD 75.1	JH605120:1,362,207..1,362,527(+)	hypothetical protein	LmxM.32.3070partial
+LMJSD75_330042700	LMJSD75_330042700.1	Leishmania major strain SD 75.1	JH605120:1,367,810..1,369,906(+)	hypothetical protein, conserved	LmxM.32.3070partial
+LMJSD75_330044100	LMJSD75_330044100.1	Leishmania major strain SD 75.1	JH605120:1,411,236..1,413,890(+)	beta prime cop protein, putative	LmxM.32.3210
+LMJSD75_330044300	LMJSD75_330044300.1	Leishmania major strain SD 75.1	JH605120:1,417,511..1,419,115(+)	hypothetical protein, conserved	LmxM.32.3220
+LMJSD75_340024700	LMJSD75_340024700.1	Leishmania major strain SD 75.1	JH605121:700,600..700,995(-)	amastin-like surface protein-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LMJSD75_340024800	LMJSD75_340024800.1	Leishmania major strain SD 75.1	JH605121:701,618..703,612(-)	tuzin-like protein	LmxM.33.1590
+LMJSD75_340033700	LMJSD75_340033700.1	Leishmania major strain SD 75.1	JH605121:1,085,133..1,085,366(+)	hypothetical protein	LmxM.33.1590
+LMJSD75_340036300	LMJSD75_340036300.1	Leishmania major strain SD 75.1	JH605121:1,164,519..1,166,429(+)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LMJSD75_340047600	LMJSD75_340047600.1	Leishmania major strain SD 75.1	JH605121:1,522,611..1,525,331(+)	ubiquitin hydrolase, putative	LmxM.33.4060
+LMJSD75_350030100	LMJSD75_350030100.1	Leishmania major strain SD 75.1	JH605122:891,855..892,277(+)	hypothetical protein	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LMJSD75_350051300	LMJSD75_350051300.1	Leishmania major strain SD 75.1	JH605122:1,662,855..1,663,411(+)	hypothetical protein, conserved	LmxM.34.4380
+LMJSD75_360034300	LMJSD75_360034300.1	Leishmania major strain SD 75.1	JH605123:1,025,486..1,027,648(-)	cyclin-e binding protein 1-like protein	LmxM.36.2600
+LMJSD75_360061900	LMJSD75_360061900.1	Leishmania major strain SD 75.1	JH605123:1,917,729..1,920,266(-)	hypothetical protein, conserved	LmxM.03.0320
+LMJSD75_360079300	LMJSD75_360079300.1	Leishmania major strain SD 75.1	JH605123:2,487,005..2,488,204(-)	cop9 signalosome complex subunit, putative	LmxM.36.6510
+LmjF.02.0300	LmjF.02.0300:mRNA	Leishmania major strain Friedlin	LmjF.02:138,486..146,384(-)	ATP-binding cassette subfamily A, member 1, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.02.0310	LmjF.02.0310:mRNA	Leishmania major strain Friedlin	LmjF.02:150,192..152,276(-)	Soluble NSF attachment protein, SNAP, putative	LmxM.02.0310
+LmjF.02.0580	LmjF.02.0580:mRNA	Leishmania major strain Friedlin	LmjF.02:298,464..309,800(+)	hypothetical protein, conserved	LmxM.02.0580
+LmjF.03.0110	LmjF.03.0110:mRNA	Leishmania major strain Friedlin	LmjF.03:26,896..29,559(+)	hypothetical protein, conserved	LmxM.03.0110
+LmjF.03.0120	LmjF.03.0120:mRNA	Leishmania major strain Friedlin	LmjF.03:30,321..33,098(+)	hypothetical protein, conserved	LmxM.03.0120
+LmjF.03.0270	LmjF.03.0270:mRNA	Leishmania major strain Friedlin	LmjF.03:66,059..73,123(+)	FYVE zinc finger/Apolipoprotein A1/A4/E domain containing protein, putative	LmxM.03.0270
+LmjF.03.0320	LmjF.03.0320:mRNA	Leishmania major strain Friedlin	LmjF.03:90,197..93,295(+)	hypothetical protein, conserved	LmxM.03.0320
+LmjF.03.0350	LmjF.03.0350:mRNA	Leishmania major strain Friedlin	LmjF.03:99,582..104,165(+)	protein kinase, putative	LmxM.03.0350
+LmjF.03.0360	LmjF.03.0360:mRNA	Leishmania major strain Friedlin	LmjF.03:108,057..113,039(+)	hypothetical protein	LmxM.03.0360
+LmjF.03.0460	LmjF.03.0460:mRNA	Leishmania major strain Friedlin	LmjF.03:155,368..158,556(+)	hypothetical protein	LmxM.03.0460
+LmjF.03.0490	LmjF.03.0490:mRNA	Leishmania major strain Friedlin	LmjF.03:172,451..175,633(+)	hypothetical protein, conserved	LmxM.03.0490
+LmjF.03.0500	LmjF.03.0500:mRNA	Leishmania major strain Friedlin	LmjF.03:176,969..178,687(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LmjF.03.0510	LmjF.03.0510:mRNA	Leishmania major strain Friedlin	LmjF.03:181,156..188,820(+)	kinetoplastid-specific dual specificity phosphatase, putative	LmxM.03.0510
+LmjF.03.0530	LmjF.03.0530:mRNA	Leishmania major strain Friedlin	LmjF.03:193,668..200,246(+)	hypothetical protein, conserved	LmxM.03.0530
+LmjF.04.1090	LmjF.04.1090:mRNA	Leishmania major strain Friedlin	LmjF.04:407,119..411,459(-)	hypothetical protein, conserved	LmxM.04.1090
+LmjF.04.1140	LmjF.04.1140:mRNA	Leishmania major strain Friedlin	LmjF.04:423,686..424,588(-)	hypothetical protein	LmxM.04.1140
+LmjF.05.0770	LmjF.05.0770:mRNA	Leishmania major strain Friedlin	LmjF.05:286,394..290,464(+)	hypothetical protein, unknown function	LmxM.05.0770
+LmjF.08.0670	LmjF.08.0670:mRNA	Leishmania major strain Friedlin	LmjF.08:286,603..287,217(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0680	LmjF.08.0680:mRNA	Leishmania major strain Friedlin	LmjF.08:292,482..293,096(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0690	LmjF.08.0690:mRNA	Leishmania major strain Friedlin	LmjF.08:298,369..298,983(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0700	LmjF.08.0700:mRNA	Leishmania major strain Friedlin	LmjF.08:304,253..304,852(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0710	LmjF.08.0710:mRNA	Leishmania major strain Friedlin	LmjF.08:310,119..310,733(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0720	LmjF.08.0720:mRNA	Leishmania major strain Friedlin	LmjF.08:316,001..316,600(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0730	LmjF.08.0730:mRNA	Leishmania major strain Friedlin	LmjF.08:321,867..322,481(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0740	LmjF.08.0740:mRNA	Leishmania major strain Friedlin	LmjF.08:327,755..328,354(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0750	LmjF.08.0750:mRNA	Leishmania major strain Friedlin	LmjF.08:333,620..334,234(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0760	LmjF.08.0760:mRNA	Leishmania major strain Friedlin	LmjF.08:339,496..340,095(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.08.0770	LmjF.08.0770:mRNA	Leishmania major strain Friedlin	LmjF.08:345,364..345,963(+)	amastin-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.09.1400	LmjF.09.1400:mRNA	Leishmania major strain Friedlin	LmjF.09:533,891..535,507(-)	hypothetical protein, unknown function	LmxM.09.1400
+LmjF.10.0030	LmjF.10.0030:mRNA	Leishmania major strain Friedlin	LmjF.10:11,909..13,390(-)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LmjF.10.0710	LmjF.10.0710:mRNA	Leishmania major strain Friedlin	LmjF.10:342,674..344,140(-)	amino acid permease 24, putative	LmxM.10.0720
+LmjF.10.0715	LmjF.10.0715:mRNA	Leishmania major strain Friedlin	LmjF.10:345,505..346,971(-)	amino acid permease 24, putative	LmxM.10.0720
+LmjF.10.0720	LmjF.10.0720:mRNA	Leishmania major strain Friedlin	LmjF.10:348,336..349,802(-)	amino acid permease 24, putative	LmxM.10.0720
+LmjF.10.1300	LmjF.10.1300:mRNA	Leishmania major strain Friedlin	LmjF.10:556,391..557,872(+)	phosphate-Repressible Phosphate Permease-like protein	LmxM.03.0500
+LmjF.11.1020	LmjF.11.1020:mRNA	Leishmania major strain Friedlin	LmjF.11:418,503..424,133(+)	hypothetical protein, conserved	LmxM.11.1020
+LmjF.11.1090	LmjF.11.1090:mRNA	Leishmania major strain Friedlin	LmjF.11:460,549..461,904(+)	palmitoyl acyltransferase 7, putative	LmxM.11.1090
+LmjF.11.1100	LmjF.11.1100:mRNA	Leishmania major strain Friedlin	LmjF.11:464,294..465,733(+)	Lanosterol 14-alpha demethylase	LmxM.11.1100
+LmjF.11.1160	LmjF.11.1160:mRNA	Leishmania major strain Friedlin	LmjF.11:474,571..478,047(+)	protein transport protein SEC31, putative	LmxM.11.1160
+LmjF.11.1220	LmjF.11.1220:mRNA	Leishmania major strain Friedlin	LmjF.11:500,104..505,434(+)	ATP-binding cassette protein subfamily A, member 2, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.11.1240	LmjF.11.1240:mRNA	Leishmania major strain Friedlin	LmjF.11:510,352..516,078(+)	ATP-binding cassette protein subfamily A, member 3, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.11.1250	LmjF.11.1250:mRNA	Leishmania major strain Friedlin	LmjF.11:520,967..526,297(+)	ATP-binding cassette protein subfamily A, member 4, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.11.1270	LmjF.11.1270:mRNA	Leishmania major strain Friedlin	LmjF.11:531,133..536,517(+)	ATP-binding cassette protein subfamily A, member 5, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.11.1290	LmjF.11.1290:mRNA	Leishmania major strain Friedlin	LmjF.11:545,392..551,310(+)	ATP-binding cassette protein subfamily A, member 6, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.11.1350	LmjF.11.1350:mRNA	Leishmania major strain Friedlin	LmjF.11:570,858..571,577(+)	hypothetical protein, conserved	LmxM.11.1350
+LmjF.11.1380	LmjF.11.1380:mRNA	Leishmania major strain Friedlin	LmjF.11:578,961..580,121(+)	Variant SH3 domain containing protein, putative	LmxM.11.1380
+LmjF.12.0730	LmjF.12.0730:mRNA	Leishmania major strain Friedlin	LmjF.12:522,368..524,011(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0740	LmjF.12.0740:mRNA	Leishmania major strain Friedlin	LmjF.12:514,444..516,726(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.0755	LmjF.12.0755:mRNA	Leishmania major strain Friedlin	LmjF.12:468,337..470,049(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0760	LmjF.12.0760:mRNA	Leishmania major strain Friedlin	LmjF.12:471,517..473,280(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0765	LmjF.12.0765:mRNA	Leishmania major strain Friedlin	LmjF.12:484,652..486,370(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0780	LmjF.12.0780:mRNA	Leishmania major strain Friedlin	LmjF.12:478,552..479,679(+)	surface antigen protein 2 precursor	LmxM.12.0890
+LmjF.12.0810	LmjF.12.0810:mRNA	Leishmania major strain Friedlin	LmjF.12:491,781..492,938(+)	promastigote surface antigen protein 2 PSA2	LmxM.12.0890
+LmjF.12.0830	LmjF.12.0830:mRNA	Leishmania major strain Friedlin	LmjF.12:498,186..500,132(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0850	LmjF.12.0850:mRNA	Leishmania major strain Friedlin	LmjF.12:505,413..507,302(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0860	LmjF.12.0860:mRNA	Leishmania major strain Friedlin	LmjF.12:382,553..384,883(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.0870	LmjF.12.0870:mRNA	Leishmania major strain Friedlin	LmjF.12:407,249..408,892(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0890	LmjF.12.0890:mRNA	Leishmania major strain Friedlin	LmjF.12:414,606..415,793(+)	promastigote surface antigen 38S	LmxM.12.0890
+LmjF.12.0910	LmjF.12.0910:mRNA	Leishmania major strain Friedlin	LmjF.12:421,097..422,635(+)	promastigote surface antigen protein PSA	LmxM.12.0890
+LmjF.12.0920	LmjF.12.0920:mRNA	Leishmania major strain Friedlin	LmjF.12:433,739..435,277(+)	promastigote surface antigen protein PSA	LmxM.12.0890
+LmjF.12.0940	LmjF.12.0940:mRNA	Leishmania major strain Friedlin	LmjF.12:442,787..443,944(+)	promastigote surface antigen protein 2 PSA2	LmxM.12.0890
+LmjF.12.0960	LmjF.12.0960:mRNA	Leishmania major strain Friedlin	LmjF.12:449,204..451,210(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.0980	LmjF.12.0980:mRNA	Leishmania major strain Friedlin	LmjF.12:391,810..392,967(+)	promastigote surface antigen protein 2 PSA2	LmxM.12.0890
+LmjF.12.0990	LmjF.12.0990:mRNA	Leishmania major strain Friedlin	LmjF.12:397,712..399,544(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.1000	LmjF.12.1000:mRNA	Leishmania major strain Friedlin	LmjF.12:401,990..403,147(+)	promastigote surface antigen protein 2 PSA2	LmxM.12.0890
+LmjF.12.1020	LmjF.12.1020:mRNA	Leishmania major strain Friedlin	LmjF.12:529,861..531,471(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.1040	LmjF.12.1040:mRNA	Leishmania major strain Friedlin	LmjF.12:538,780..540,462(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.1060	LmjF.12.1060:mRNA	Leishmania major strain Friedlin	LmjF.12:455,108..456,790(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.12.1070	LmjF.12.1070:mRNA	Leishmania major strain Friedlin	LmjF.12:464,061..466,175(+)	surface antigen protein 2, putative	LmxM.12.0890
+LmjF.12.1090	LmjF.12.1090:mRNA	Leishmania major strain Friedlin	LmjF.12:547,351..548,880(+)	surface antigen protein, putative	LmxM.12.0890
+LmjF.13.1080	LmjF.13.1080:mRNA	Leishmania major strain Friedlin	LmjF.13:374,229..379,013(-)	hypothetical protein, unknown function	LmxM.13.1080
+LmjF.15.0070	LmjF.15.0070:mRNA	Leishmania major strain Friedlin	LmjF.15:22,258..23,943(-)	hypothetical protein, conserved	LmxM.15.0070
+LmjF.15.0160	LmjF.15.0160:mRNA	Leishmania major strain Friedlin	LmjF.15:58,110..60,617(-)	zinc finger (CCCH type) protein, putative	LmxM.15.0160
+LmjF.15.0290	LmjF.15.0290:mRNA	Leishmania major strain Friedlin	LmjF.15:110,871..113,273(+)	hypothetical protein, conserved	LmxM.15.0290
+LmjF.15.0310	LmjF.15.0310:mRNA	Leishmania major strain Friedlin	LmjF.15:116,513..118,477(+)	hypothetical protein, conserved	LmxM.15.0310
+LmjF.15.0490	LmjF.15.0490:mRNA	Leishmania major strain Friedlin	LmjF.15:203,732..205,873(+)	hypothetical protein, conserved	LmxM.15.0490
+LmjF.15.0500	LmjF.15.0500:mRNA	Leishmania major strain Friedlin	LmjF.15:206,811..209,816(+)	metalloprotease, putative	LmxM.15.0500
+LmjF.15.0530	LmjF.15.0530:mRNA	Leishmania major strain Friedlin	LmjF.15:216,857..222,517(+)	hypothetical protein, conserved	LmxM.15.0530
+LmjF.15.0540	LmjF.15.0540:mRNA	Leishmania major strain Friedlin	LmjF.15:223,973..226,012(+)	hypothetical protein, conserved	LmxM.15.0540
+LmjF.15.0630	LmjF.15.0630:mRNA	Leishmania major strain Friedlin	LmjF.15:263,280..267,092(+)	hypothetical protein, unknown function	LmxM.15.0630
+LmjF.15.0760	LmjF.15.0760:mRNA	Leishmania major strain Friedlin	LmjF.15:335,756..343,831(-)	ATP-binding cassette protein subfamily A, member 7, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.16.0440	LmjF.16.0440:mRNA	Leishmania major strain Friedlin	LmjF.16:152,866..156,429(-)	Bifunctional fucokinase/pyrophosphorylase	LmxM.16.0480
+LmjF.16.0480	LmjF.16.0480:mRNA	Leishmania major strain Friedlin	LmjF.16:168,324..171,887(-)	Bifunctional arabino/fucokinase pyrophosphorylase	LmxM.16.0480
+LmjF.16.0760	LmjF.16.0760:mRNA	Leishmania major strain Friedlin	LmjF.16:269,854..270,846(-)	transaldolase, putative	LmxM.16.0760
+LmjF.17.0190	LmjF.17.0190:mRNA	Leishmania major strain Friedlin	LmjF.17:60,047..64,291(-)	receptor-type adenylate cyclase, putative	LmxM.17.0190,LmxM.17.0200
+LmjF.17.0200	LmjF.17.0200:mRNA	Leishmania major strain Friedlin	LmjF.17:47,957..52,090(-)	receptor-type adenylate cyclase a	LmxM.17.0190,LmxM.17.0200
+LmjF.17.0230	LmjF.17.0230:mRNA	Leishmania major strain Friedlin	LmjF.17:75,012..78,806(-)	receptor-type adenylate cyclase b	LmxM.17.0190,LmxM.17.0200
+LmjF.17.0235	LmjF.17.0235:mRNA	Leishmania major strain Friedlin	LmjF.17:80,549..84,535(-)	receptor-type adenylate cyclase b	LmxM.17.0190,LmxM.17.0200
+LmjF.17.0237	LmjF.17.0237:mRNA	Leishmania major strain Friedlin	LmjF.17:86,278..91,293(-)	receptor-type adenylate cyclase b	LmxM.17.0190,LmxM.17.0200
+LmjF.17.0530	LmjF.17.0530:mRNA	Leishmania major strain Friedlin	LmjF.17:271,538..275,110(-)	hypothetical protein, conserved	LmxM.17.0530
+LmjF.17.1440	LmjF.17.1440:mRNA	Leishmania major strain Friedlin	LmjF.17:669,283..673,527(+)	ion transport protein, putative	LmxM.17.1440
+LmjF.20.1120	LmjF.20.1120:mRNA	Leishmania major strain Friedlin	LmjF.20:497,836..507,684(+)	phosphatidylinositol 3-kinase, putative	LmxM.20.1120
+LmjF.20.1500	LmjF.20.1500:mRNA	Leishmania major strain Friedlin	LmjF.20:670,191..673,052(-)	hypothetical protein, conserved	LmxM.20.1500
+LmjF.21.0430	LmjF.21.0430:mRNA	Leishmania major strain Friedlin	LmjF.21:138,525..139,718(+)	hypothetical protein, conserved	LmxM.21.0430
+LmjF.22.1320	LmjF.22.1320:mRNA	Leishmania major strain Friedlin	LmjF.22:545,645..551,785(-)	hypothetical protein, unknown function	LmxM.22.1320
+LmjF.22.1330	LmjF.22.1330:mRNA	Leishmania major strain Friedlin	LmjF.22:555,526..561,555(-)	hypothetical protein, conserved	LmxM.22.1330
+LmjF.22.1350	LmjF.22.1350.1:mRNA	Leishmania major strain Friedlin	LmjF.22:567,913..571,402(-)	palmitoyl acyltransferase 11, putative	LmxM.11.1090
+LmjF.22.1350	LmjF.22.1350.2:mRNA	Leishmania major strain Friedlin	LmjF.22:567,913..571,402(-)	palmitoyl acyltransferase 11, putative	LmxM.11.1090
+LmjF.22.1650	LmjF.22.1650:mRNA	Leishmania major strain Friedlin	LmjF.22:677,592..678,752(+)	CobW/HypB/UreG, nucleotide-binding domain containing protein, putative	LmxM.22.1650
+LmjF.23.0640	LmjF.23.0640:mRNA	Leishmania major strain Friedlin	LmjF.23:308,424..310,091(-)	hypothetical protein, conserved	LmxM.23.0640
+LmjF.23.1540	LmjF.23.1540:mRNA	Leishmania major strain Friedlin	LmjF.23:752,663..755,560(+)	hypothetical protein, conserved	LmxM.23.1540
+LmjF.23.1550	LmjF.23.1550:mRNA	Leishmania major strain Friedlin	LmjF.23:756,508..758,892(+)	hypothetical protein, conserved	LmxM.23.1550
+LmjF.24.0100	LmjF.24.0100:mRNA	Leishmania major strain Friedlin	LmjF.24:20,224..21,063(+)	Calmodulin-binding, putative	LmxM.24.0100
+LmjF.24.0470	LmjF.24.0470:mRNA	Leishmania major strain Friedlin	LmjF.24:162,207..163,469(+)	hypothetical protein, conserved	LmxM.24.0470
+LmjF.24.0480	LmjF.24.0480:mRNA	Leishmania major strain Friedlin	LmjF.24:167,292..170,954(+)	Kelch motif/Galactose oxidase, central domain containing protein, putative	LmxM.24.0480
+LmjF.24.0690	LmjF.24.0690:mRNA	Leishmania major strain Friedlin	LmjF.24:245,669..246,193(+)	hypothetical predicted transmembrane protein	LmxM.24.0690
+LmjF.24.2340	LmjF.24.2340:mRNA	Leishmania major strain Friedlin	LmjF.24:836,490..837,905(+)	SpoU rRNA Methylase family, putative	LmxM.24.2340
+LmjF.26.0710	LmjF.26.0710:mRNA	Leishmania major strain Friedlin	LmjF.26:195,601..198,408(-)	Sphingosine kinase	LmxM.26.0710
+LmjF.26.2120	LmjF.26.2120:mRNA	Leishmania major strain Friedlin	LmjF.26:846,229..858,708(+)	hypothetical protein, conserved	LmxM.26.2120
+LmjF.27.0490	LmjF.27.0490:mRNA	Leishmania major strain Friedlin	LmjF.27:144,134..157,795(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LmjF.27.0500	LmjF.27.0500:mRNA	Leishmania major strain Friedlin	LmjF.27:164,885..183,379(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LmjF.27.0510	LmjF.27.0510:mRNA	Leishmania major strain Friedlin	LmjF.27:194,587..210,663(+)	calpain-like cysteine peptidase, putative	LmxM.15.0440
+LmjF.27.0670	LmjF.27.0670:mRNA	Leishmania major strain Friedlin	LmjF.27:261,190..262,692(+)	amino acid permease, putative	LmxM.30.0350
+LmjF.27.0680	LmjF.27.0680:mRNA	Leishmania major strain Friedlin	LmjF.27:267,340..268,947(+)	amino acid permease, putative	LmxM.27.0680
+LmjF.27.0970	LmjF.27.0970:mRNA	Leishmania major strain Friedlin	LmjF.27:410,527..416,061(-)	ATP-binding cassette protein subfamily A, member 8, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.27.0980	LmjF.27.0980:mRNA	Leishmania major strain Friedlin	LmjF.27:421,573..427,215(-)	ATP-binding cassette protein subfamily A, member 9, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.27.1895	LmjF.27.1895:mRNA	Leishmania major strain Friedlin	LmjF.27:815,529..819,338(-)	hypothetical protein, conserved	LmxM.27.1895
+LmjF.28.3030	LmjF.28.3030:mRNA	Leishmania major strain Friedlin	LmjF.28:1,142,086..1,153,731(-)	Nucleoporin NUP149	LmxM.28.3030
+LmjF.29.0620	LmjF.29.0620:mRNA	Leishmania major strain Friedlin	LmjF.29:230,353..235,953(-)	ATP-binding cassette protein subfamily A, member 10, putative	LmxM.11.1220,LmxM.11.1240,LmxM.11.1290
+LmjF.29.0650	LmjF.29.0650:mRNA	Leishmania major strain Friedlin	LmjF.29:243,053..245,182(-)	phosphate transporter, putative	LmxM.03.0500
+LmjF.29.2020	LmjF.29.2020:mRNA	Leishmania major strain Friedlin	LmjF.29:878,623..881,067(-)	5'-AMP-activated protein kinase catalytic subunit alpha, putative	LmxM.08_29.2020
+LmjF.30.1080	LmjF.30.1080:mRNA	Leishmania major strain Friedlin	LmjF.30:354,169..362,019(+)	hypothetical protein, unknown function	LmxM.29.1080
+LmjF.30.1240	LmjF.30.1240:mRNA	Leishmania major strain Friedlin	LmjF.30:423,874..425,115(+)	calcium-binding protein, putative	LmxM.29.1240
+LmjF.31.0010	LmjF.31.0010:mRNA	Leishmania major strain Friedlin	LmjF.31:3,246..5,558(-)	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase	LmxM.30.0010
+LmjF.31.0030	LmjF.31.0030:mRNA	Leishmania major strain Friedlin	LmjF.31:9,542..12,700(-)	RING-variant domain containing protein, putative	LmxM.30.0030
+LmjF.31.0280	LmjF.31.0280:mRNA	Leishmania major strain Friedlin	LmjF.31:73,946..74,971(-)	Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)/Endoplasmic reticulum vesicle transporter, putative	LmxM.30.0280
+LmjF.31.0320	LmjF.31.0320:mRNA	Leishmania major strain Friedlin	LmjF.31:90,450..92,057(-)	amino acid transporter, putative	LmxM.27.0680
+LmjF.31.0330	LmjF.31.0330:mRNA	Leishmania major strain Friedlin	LmjF.31:95,194..96,696(-)	amino acid transporter aATP11, putative	LmxM.30.0350
+LmjF.31.0340	LmjF.31.0340:mRNA	Leishmania major strain Friedlin	LmjF.31:102,752..104,155(-)	amino acid transporter aATP11, putative	LmxM.30.0350
+LmjF.31.0350	LmjF.31.0350:mRNA	Leishmania major strain Friedlin	LmjF.31:107,840..109,375(-)	amino acid transporter aATP11, putative	LmxM.30.0350
+LmjF.31.0360	LmjF.31.0360:mRNA	Leishmania major strain Friedlin	LmjF.31:110,759..113,734(-)	CRAL/TRIO domain containing protein, putative	LmxM.30.0360
+LmjF.31.0450	LmjF.31.0450:mRNA	Leishmania major strain Friedlin	LmjF.31:152,044..152,637(-)	amastin, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.31.0800	LmjF.31.0800:mRNA	Leishmania major strain Friedlin	LmjF.31:289,685..291,628(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LmjF.31.0810	LmjF.31.0810:mRNA	Leishmania major strain Friedlin	LmjF.31:292,899..294,788(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LmjF.31.0820	LmjF.31.0820:mRNA	Leishmania major strain Friedlin	LmjF.31:297,195..298,142(-)	hypothetical protein, conserved	LmxM.30.0800,LmxM.30.0820
+LmjF.31.2220	LmjF.31.2220:mRNA	Leishmania major strain Friedlin	LmjF.31:1,107,036..1,113,437(-)	hypothetical protein, unknown function	LmxM.30.2220
+LmjF.31.3060	LmjF.31.3060:mRNA	Leishmania major strain Friedlin	LmjF.31:1,435,777..1,437,075(-)	ferrous iron transport protein, putative	LmxM.30.3060,LmxM.30.3070
+LmjF.31.3070	LmjF.31.3070:mRNA	Leishmania major strain Friedlin	LmjF.31:1,439,906..1,441,204(-)	iron/zinc transporter protein-like protein	LmxM.30.3060,LmxM.30.3070
+LmjF.32.1910	LmjF.32.1910:mRNA	Leishmania major strain Friedlin	LmjF.32:747,045..748,397(-)	hypothetical protein, conserved	LmxM.31.1910
+LmjF.33.1160	LmjF.33.1160:mRNA	Leishmania major strain Friedlin	LmjF.33:543,108..543,551(+)	hypothetical protein, conserved	LmxM.32.1160
+LmjF.33.1230	LmjF.33.1230:mRNA	Leishmania major strain Friedlin	LmjF.33:565,959..567,824(+)	WD domain, G-beta repeat, putative	LmxM.32.1240
+LmjF.33.1240	LmjF.33.1240:mRNA	Leishmania major strain Friedlin	LmjF.33:568,819..571,389(+)	hypothetical protein, conserved	LmxM.32.1240
+LmjF.33.1490	LmjF.33.1490:mRNA	Leishmania major strain Friedlin	LmjF.33:712,865..723,199(+)	hypothetical protein, conserved	LmxM.32.1490
+LmjF.33.3070	LmjF.33.3070:mRNA	Leishmania major strain Friedlin	LmjF.33:1,492,385..1,515,040(+)	Flagellar Member 8	LmxM.32.3070partial
+LmjF.33.3210	LmjF.33.3210:mRNA	Leishmania major strain Friedlin	LmjF.33:1,556,417..1,559,071(+)	beta prime cop protein, putative	LmxM.32.3210
+LmjF.33.3220	LmjF.33.3220.1:mRNA	Leishmania major strain Friedlin	LmjF.33:1,560,026..1,564,297(+)	hypothetical protein, conserved	LmxM.32.3220
+LmjF.33.3220	LmjF.33.3220.2:mRNA	Leishmania major strain Friedlin	LmjF.33:1,560,026..1,564,297(+)	hypothetical protein, conserved	LmxM.32.3220
+LmjF.34.1560	LmjF.34.1560:mRNA	Leishmania major strain Friedlin	LmjF.34:709,260..709,835(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1570	LmjF.34.1570:mRNA	Leishmania major strain Friedlin	LmjF.34:712,034..714,028(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1580	LmjF.34.1580:mRNA	Leishmania major strain Friedlin	LmjF.34:716,811..717,389(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1590	LmjF.34.1590:mRNA	Leishmania major strain Friedlin	LmjF.34:719,588..721,582(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1600	LmjF.34.1600:mRNA	Leishmania major strain Friedlin	LmjF.34:724,398..724,925(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1610	LmjF.34.1610:mRNA	Leishmania major strain Friedlin	LmjF.34:726,853..728,847(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1620	LmjF.34.1620:mRNA	Leishmania major strain Friedlin	LmjF.34:731,617..732,195(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1630	LmjF.34.1630:mRNA	Leishmania major strain Friedlin	LmjF.34:734,394..736,388(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1640	LmjF.34.1640:mRNA	Leishmania major strain Friedlin	LmjF.34:739,148..739,723(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1650	LmjF.34.1650:mRNA	Leishmania major strain Friedlin	LmjF.34:741,995..743,989(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1660	LmjF.34.1660:mRNA	Leishmania major strain Friedlin	LmjF.34:746,747..747,325(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1670	LmjF.34.1670:mRNA	Leishmania major strain Friedlin	LmjF.34:749,524..751,518(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1680	LmjF.34.1680:mRNA	Leishmania major strain Friedlin	LmjF.34:754,286..754,864(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1690	LmjF.34.1690:mRNA	Leishmania major strain Friedlin	LmjF.34:757,053..759,047(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1700	LmjF.34.1700:mRNA	Leishmania major strain Friedlin	LmjF.34:761,789..762,403(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1710	LmjF.34.1710:mRNA	Leishmania major strain Friedlin	LmjF.34:764,602..766,596(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1720	LmjF.34.1720:mRNA	Leishmania major strain Friedlin	LmjF.34:769,367..769,945(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1730	LmjF.34.1730:mRNA	Leishmania major strain Friedlin	LmjF.34:772,144..774,138(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1740	LmjF.34.1740:mRNA	Leishmania major strain Friedlin	LmjF.34:776,904..777,479(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1750	LmjF.34.1750:mRNA	Leishmania major strain Friedlin	LmjF.34:779,677..781,671(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1760	LmjF.34.1760:mRNA	Leishmania major strain Friedlin	LmjF.34:784,403..785,017(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1770	LmjF.34.1770:mRNA	Leishmania major strain Friedlin	LmjF.34:787,216..789,210(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1780	LmjF.34.1780:mRNA	Leishmania major strain Friedlin	LmjF.34:791,956..792,570(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1790	LmjF.34.1790:mRNA	Leishmania major strain Friedlin	LmjF.34:794,769..796,763(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1800	LmjF.34.1800:mRNA	Leishmania major strain Friedlin	LmjF.34:799,498..800,112(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1810	LmjF.34.1810:mRNA	Leishmania major strain Friedlin	LmjF.34:802,311..804,305(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1820	LmjF.34.1820:mRNA	Leishmania major strain Friedlin	LmjF.34:807,037..807,651(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1830	LmjF.34.1830:mRNA	Leishmania major strain Friedlin	LmjF.34:809,850..811,844(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1840	LmjF.34.1840:mRNA	Leishmania major strain Friedlin	LmjF.34:814,597..815,205(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1850	LmjF.34.1850:mRNA	Leishmania major strain Friedlin	LmjF.34:817,133..819,127(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1860	LmjF.34.1860:mRNA	Leishmania major strain Friedlin	LmjF.34:821,860..822,474(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1870	LmjF.34.1870:mRNA	Leishmania major strain Friedlin	LmjF.34:824,673..826,667(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1880	LmjF.34.1880:mRNA	Leishmania major strain Friedlin	LmjF.34:829,448..830,026(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1890	LmjF.34.1890:mRNA	Leishmania major strain Friedlin	LmjF.34:832,221..834,215(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1900	LmjF.34.1900:mRNA	Leishmania major strain Friedlin	LmjF.34:836,985..837,560(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1910	LmjF.34.1910:mRNA	Leishmania major strain Friedlin	LmjF.34:839,756..841,750(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1920	LmjF.34.1920:mRNA	Leishmania major strain Friedlin	LmjF.34:844,495..845,106(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1930	LmjF.34.1930:mRNA	Leishmania major strain Friedlin	LmjF.34:847,303..849,297(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1940	LmjF.34.1940:mRNA	Leishmania major strain Friedlin	LmjF.34:852,030..852,644(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1950	LmjF.34.1950:mRNA	Leishmania major strain Friedlin	LmjF.34:854,843..856,837(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1960	LmjF.34.1960:mRNA	Leishmania major strain Friedlin	LmjF.34:859,597..860,175(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.1970	LmjF.34.1970:mRNA	Leishmania major strain Friedlin	LmjF.34:862,375..864,369(-)	tuzin-like protein	LmxM.33.1590
+LmjF.34.1980	LmjF.34.1980:mRNA	Leishmania major strain Friedlin	LmjF.34:867,102..867,716(-)	amastin-like surface protein, putative	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.34.4060	LmjF.34.4060:mRNA	Leishmania major strain Friedlin	LmjF.34:1,728,410..1,731,130(+)	ubiquitin hydrolase, putative	LmxM.33.4060
+LmjF.35.4380	LmjF.35.4380:pseudogenic_transcript	Leishmania major strain Friedlin	LmjF.35:1,762,158..1,763,645(+)	hypothetical protein, conserved	LmxM.34.4380
+LmjF.36.1270	LmjF.36.1270:mRNA	Leishmania major strain Friedlin	LmjF.36:467,630..468,778(+)	amastin-like surface protein-like protein	LmxM.08.0720,LmxM.30.0450a,LmxM.30.0450c,LmxM.30.0450d,LmxM.30.0450e,LmxM.30.0450h,LmxM.33.1900
+LmjF.36.1280	LmjF.36.1280:mRNA	Leishmania major strain Friedlin	LmjF.36:471,758..473,536(+)	tuzin-like protein	LmxM.33.1590
+LmjF.36.2600	LmjF.36.2600:mRNA	Leishmania major strain Friedlin	LmjF.36:1,049,558..1,051,720(-)	cyclin-e binding protein 1-like protein	LmxM.36.2600
+LmjF.36.5020	LmjF.36.5020:mRNA	Leishmania major strain Friedlin	LmjF.36:1,944,587..1,947,124(-)	hypothetical protein, conserved	LmxM.03.0320
+LmjF.36.6510	LmjF.36.6510:mRNA	Leishmania major strain Friedlin	LmjF.36:2,519,917..2,521,116(-)	cop9 signalosome complex subunit, putative	LmxM.36.6510
